@@ -1,0 +1,1001 @@
+id,name,age,marriage_status,gender,weight,height,hours_of_exercise,avg_daily_calories,diet_type,if_smokes,if_drinks,if_drugs,city,city_temperature,diseases_or_conditions,income,education_level
+3e3872035a6c4be9b90b8e39240c9f7b,Cory Vazquez,15,divorced, ,78,124,0,1499,other,yes,no,yes,Shanghai,53,sugar_intolerance,283232,university
+5ac3975efdaa4dec88ac392b3b2b8c15,Dr. Lisa Avery,56,single,female,48,146,9,2266,vegetarian,yes,no,yes,Shanghai,59,none,322340,university
+79413cd2c5a042948130a77a84451291,David Rodriguez,39,married,male,126,183,9,3506,vegetarian,no,no,yes,Paris,94,heart_disease,13414,other
+87bb0139c592475bb59ed6048cbe156e,Dawn Anderson,34,divorced,female,112,125,7,1362,carb_rich,yes,no,yes,Tokyo,38,heart_disease,358879,high_school
+4e21955bd54e463187a8326da9acda5a,Ryan Burke,37,single,male,86,147,20,3183,carb_rich,yes,no,yes,Delhi,33,none,740122,university
+a63f750f5c2f4fc1a421b82f4aacc59e,Scott James,27,single,male,127,208,3,1745,vegetarian,no,no,yes,Tokyo,61,diabetes,650994,other
+de7a08254b57447480fd3576eb30dd5e,Jason Wells,24,married,male,75,202,13,2983,carb_rich,no,no,no,London,16,diabetes,513818,university
+939c786f9ca6478bbb78787c188ca3a9,Deanna Good,29,widowed,female,76,220,1,1515,carb_rich,yes,yes,yes,Paris,43,diabetes,997891,other
+ffad66b1a24f4b0d8abe76c72a5f89d7,Alison Kelly,20,widowed,female,102,170,15,2723,vegetarian,no,no,no,Paris,49,none,347819,university
+5de1c5483bce478eae815e1fabe58b91,Jeremy Moreno,43,widowed, ,111,220,18,1135,protein_based,yes,yes,no,Dubai,74,other,36681,other
+d5c2aace3434495ea896948a1d81c1a6,Kelly Rivera,45,married,female,84,200,24,2915,other,no,yes,yes,Paris,54,none,984386,other
+a269c19750aa4bb1922f1f458f9a14b6,Jennifer Webb,27,married, ,114,202,24,3706,vegetarian,no,yes,yes,London,92,other,646178,university
+cf9c16bc8f574731b2ee372941a083ab,Alison Griffin,40,single,female,129,189,5,1059,protein_based,yes,yes,yes,Shanghai,60,none,840621,university
+1118badc067a441aabc6aed0f178b6b2,Jordan Howard,51,widowed,male,111,161,1,3951,protein_based,no,no,yes,New York,99,other,684944,college
+bece1e3f056c47c7b11eb6b9856ff77e,Jack Murray,19,divorced,male,102,194,21,1960,other,yes,yes,no,London,15,other,215966,university
+a0b9bc54a5004bc3afaedeec7246edfc,Amy Lee,55,married,female,90,212,16,1106,other,yes,no,no,Delhi,99,sugar_intolerance,434303,university
+f632e23c07ff428b837f8078581ebaf2,Gary Garcia,31,single,male,130,152,13,3030,other,no,no,no,Dubai,81,heart_disease,390620,other
+e4a2349fbe414ebcbb918c00e71fc854,James Taylor,57,widowed,male,,148,16,3330,protein_based,no,yes,no,Delhi,43,none,12876,other
+0c39521e59be44bdba34be93d7e365f1,Philip Romero,30,married,male,99,145,22,2217,carb_rich,no,no,no,Paris,25,none,523091,other
+151d6f83016d4539b4ec46c285833560,Amber Mcbride,54,divorced, ,54,189,14,3476,vegetarian,yes,no,no,Tokyo,1,diabetes,819328,other
+ec6837ff5a414844a6e5b9f5edf0b0db,Scott Taylor,49,married,male,68,139,4,3255,other,yes,no,no,London,38,diabetes,229777,university
+dc53fabd74b94a3494aba75d8009294b,Margaret Garner,39,single,female,125,178,10,3017,other,yes,no,yes,Delhi,98,none,925350,high_school
+a0eaa2681e0a4fa6a57724a76783c8ae,Victoria Torres,58,married,female,99,137,11,2439,vegetarian,no,yes,yes,Dubai,59,other,953810,high_school
+cc56c045e2ff4783a56fb28496371523,Christopher Flynn,26,divorced,male,61,164,16,3597,carb_rich,yes,no,no,Dubai,92,sugar_intolerance,57908,university
+abdc7e94c7c442098cbc21f8498fddc3,Danielle Thomas,34,widowed,female,109,123,17,535,vegetarian,no,yes,no,Shanghai,58,heart_disease,478810,university
+fa845ae34ab640348e6ebe8774244e2f,Felicia Giles,44,divorced,female,81,151,10,1088,carb_rich,yes,yes,no,Dubai,32,sugar_intolerance,270361,high_school
+6b58df0507cc491da964650bd781711d,Austin Harris,40,single,male,46,142,6,1955,protein_based,no,no,yes,London,9,diabetes,839652,other
+067fe59b362146d7bff7d4d26f71e66c,Angela Blackwell,26,divorced,female,118,152,6,1367,vegetarian,yes,yes,no,Delhi,74,other,948370,university
+49efcb737d4b4e02b6bc6b974c2d90c5,Audrey Allison,52,single,female,77,147,14,1617,other,yes,yes,no,New York,79,other,592390,high_school
+3681ef33f10a4aa78d670dc8b33576e5,Michaela Mcbride,47,married,female,111,176,19,3661,protein_based,yes,yes,yes,Dubai,18,sugar_intolerance,846180,other
+e45474c24264406d84ea5e43c85bb52c,John Lang,38,married, ,,206,2,3098,protein_based,yes,no,yes,Paris,61,other,242137,other
+8ac5ee8818994f468d6437279957023e,Jeffery Roach,18,divorced,male,125,152,9,558,protein_based,yes,yes,no,Dubai,59,diabetes,559830,other
+8450347c65f94d14b34088e168cd6b1c,Benjamin Delgado,50,single,male,119,148,9,1131,carb_rich,no,no,yes,Tokyo,9,heart_disease,165086,high_school
+c29cc2c3a6ae49c2b616941c054431eb,Jillian Campbell,27,widowed,female,115,140,15,780,carb_rich,yes,yes,,Dubai,58,heart_disease,643540,high_school
+271296ffebab46ad920b4b7c6b9d75bf,Colleen Jones,60,single, ,69,196,0,2871,protein_based,yes,yes,no,Dubai,49,sugar_intolerance,56098,high_school
+2af320fcf5e74c0f87fa63accb21b71d,Dawn Padilla,25,single, ,108,205,5,1229,carb_rich,yes,no,yes,Dubai,17,sugar_intolerance,859025,high_school
+1ceca756163049b7a75f97a5e9a02fd5,Crystal Powell,31,married,female,49,121,17,2534,protein_based,yes,no,no,Tokyo,21,sugar_intolerance,156142,high_school
+a5f5de61be6c4d639b5de7a9d46076df,Megan Avery,26,divorced,female,98,154,16,332,carb_rich,no,yes,yes,Dubai,66,,682620,other
+03ba5cec6342460783f0b21035abf999,Todd Patrick,36,divorced,male,,133,21,3812,protein_based,no,no,yes,Paris,75,sugar_intolerance,713568,high_school
+004b814f1b99417d99cae682a543803b,Andrea Erickson,34,single,female,101,151,15,3074,vegetarian,no,yes,no,Dubai,12,heart_disease,479389,high_school
+e3e5f03593d5413cbd1e20825b720f88,Brandon Jefferson,33,, ,103,208,21,1051,protein_based,yes,no,no,Dubai,19,diabetes,223532,college
+10677a3fd57d4d659520ffbd4253fa7a,Joann Gomez,16,widowed,female,76,177,5,2260,carb_rich,no,yes,no,Shanghai,20,other,133590,other
+37861e0a69b944a4bbc25a94f0074950,Michaela Barton,46,single,female,96,161,22,3829,carb_rich,,yes,yes,Delhi,6,diabetes,331411,other
+8645f0a7f9f24d95acff308816b8776e,Andrew Jackson,,single,male,91,126,15,3858,carb_rich,yes,yes,yes,Tokyo,61,sugar_intolerance,138784,university
+a542f81df32d4e32b0b114fcca6d6866,Lydia Arnold,25,single,female,49,142,21,3572,protein_based,yes,no,no,Delhi,24,heart_disease,437612,college
+3a75198cb5bb47cb8af9c8d9496d6b6e,Christopher Morgan,17,single, ,,152,24,359,carb_rich,no,no,yes,Tokyo,35,,528323,college
+255ec77b15414d58ac8043dc0fbb60c4,Robert Washington,40,single,male,66,158,,2082,other,yes,yes,no,Dubai,84,other,348914,high_school
+4861efd3ac9949b8bfcfd1e1ab8feff1,Jon Gregory,17,divorced,male,62,138,15,3481,,no,no,yes,Paris,93,diabetes,128596,high_school
+870bdb127815490b8abe126f5ee7a869,Danny Cardenas,38,divorced,male,105,130,24,1301,other,no,yes,no,Shanghai,96,none,671888,other
+955978073d544e2e906612beca94dca8,Bradley Oliver,37,single,male,69,127,21,654,other,no,yes,no,Dubai,98,none,728230,
+ce38b3d40bd5402f9c5f00d48c8eb341,Sonia Barber,17,widowed, ,45,211,11,3470,other,yes,yes,yes,Paris,42,heart_disease,40009,university
+45021e02143c4eea969d33c752d92418,Patricia Cruz,29,single,female,89,155,4,2166,other,yes,yes,yes,Shanghai,53,other,178902,high_school
+bc1b09c14d7b4efba16ebc561a7e3c6a,Kimberly Cantu,60,,female,64,186,17,202,carb_rich,yes,yes,no,Dubai,65,diabetes,985741,other
+fe1503ab15474d37ac49cb3fcdbbfed3,Michael Ward,46,widowed,male,,218,4,1183,other,yes,no,no,New York,78,heart_disease,148762,university
+1ba29a9e18984373989fe1aeaaa7e705,John Rodriguez,36,widowed,male,102,220,5,923,vegetarian,no,yes,yes,Paris,82,heart_disease,790491,other
+ee7e763119394a1c8f23844cacace4ad,Thomas Robinson,31,married,male,54,210,21,1193,vegetarian,yes,yes,no,,4,other,841906,university
+4a6e08cd0b67406c931e4e4fc489aafe,Mario Church,19,single,male,114,202,22,595,vegetarian,yes,yes,yes,Tokyo,23,other,809717,college
+e17d611ca04d40899390d6a7475b2e7e,Deborah Kennedy,30,divorced,female,128,153,6,2530,vegetarian,no,,yes,Delhi,2,heart_disease,318435,high_school
+23f837f25bd446f789aac6fdcd43613d,Nancy Thomas,25,married,female,89,124,9,1138,carb_rich,no,yes,no,Delhi,69,sugar_intolerance,420958,university
+b4ec8cf0dd774bd89d9e32e7da69a69f,Robert Scott,22,married,male,125,123,22,2143,carb_rich,yes,no,yes,Delhi,38,other,793832,high_school
+9f0810f6965e4f199026e4fb876bb85e,Craig Rogers,46,divorced, ,45,170,7,689,carb_rich,yes,no,no,Shanghai,45,heart_disease,708195,other
+f1a5c8200d3e44e0bc0a420b3a8c22af,Matthew Smith,32,widowed,male,100,218,2,3808,protein_based,yes,yes,yes,Tokyo,83,other,923385,college
+7846f7f76a3b4395970529ec65c628e9,Sierra Cole,43,divorced,female,51,191,18,614,carb_rich,no,yes,no,Dubai,56,none,302695,other
+2c18db50d5c54807a3d55da755dde24f,Tyler Johnson,24,married,male,92,133,11,482,vegetarian,no,no,yes,Paris,23,other,880558,high_school
+7df592a1a6684620b07e3bcdc03d4eb2,Sheila Sampson,40,widowed,female,55,157,3,1759,vegetarian,no,no,yes,Shanghai,45,none,505291,high_school
+a62ee1f7a580427fb859d61f608c70a4,Amy Santos,52,single,female,52,146,18,3507,vegetarian,yes,no,no,Shanghai,74,other,608855,high_school
+52b12166564e4a3f97a20405414f910d,Karina Bender,17,widowed,female,117,210,0,692,carb_rich,no,no,no,London,56,none,330530,university
+9178d9bfb7a748f498a60d74b8738009,Michael Griffin,19,divorced,male,112,169,11,2968,carb_rich,yes,yes,yes,London,73,sugar_intolerance,569685,high_school
+85e62f43383c497cac28ede705cfc804,Tom Palmer,28,divorced,male,109,142,14,3956,carb_rich,no,no,yes,New York,76,none,693095,university
+df43e1781fd74ebeb2d7985d80086976,Kathryn Lyons,46,single,female,54,133,11,1002,other,yes,no,no,Delhi,69,other,356569,college
+260d1c7f5e9e4e6eb138eced30c17932,Bailey Williams,57,divorced,female,122,180,10,3333,other,no,yes,yes,Dubai,42,heart_disease,921766,university
+336ab4080eff4217a1a36fa8f6acc533,David Bright,54,married,male,93,217,12,3459,carb_rich,yes,no,yes,New York,83,diabetes,587249,college
+d70b075f435c410bb0987416f730afcd,Edgar Harris,58,widowed,male,118,162,0,228,vegetarian,no,no,yes,Dubai,42,diabetes,394656,university
+e5d8fdb4b6bc44d0831326bcefb34ad0,Mr. Peter Dunn DDS,35,married,male,58,208,20,1605,carb_rich,no,no,no,Tokyo,98,diabetes,360100,other
+c06446cde8084d96ae8513c454c70f5c,Jill Roman,51,married,female,66,161,23,2539,vegetarian,no,no,yes,Shanghai,42,other,624206,university
+4535756a64f240afa046977e0afec287,Joseph Davis,42,widowed,male,107,200,16,1903,vegetarian,no,yes,yes,Paris,15,,704554,college
+be13c42b3e0e4e33913ced026330cb10,Brittany West,58,single, ,97,141,22,3441,other,yes,no,no,Shanghai,12,heart_disease,845060,high_school
+05303e937f8a41c8ada1d65b3783dda8,Philip Morris,20,,male,128,130,19,1483,vegetarian,no,no,yes,Shanghai,68,heart_disease,530766,other
+65879607872b42a7932099d9c8184466,Mary Barnett,30,married,female,89,191,0,996,vegetarian,no,yes,yes,New York,29,diabetes,530770,high_school
+7eec195a1424487f8bf1e925b574774e,Timothy Mcneil,50,divorced, ,92,172,0,844,carb_rich,yes,no,yes,Dubai,32,none,825381,college
+6a8e9dc01a4745c3ae0279dd3e1c6f6f,Carrie Hill,36,married,female,94,134,4,1750,vegetarian,yes,yes,yes,Paris,89,diabetes,89641,other
+133fa96f04404a048d09da455ca44694,Tiffany Perez,45,divorced, ,120,180,4,2070,carb_rich,yes,no,yes,Shanghai,30,other,888180,university
+dc621b940c9742cf847c2a5b49dd26cc,Lindsey Jones,41,married,female,,163,15,1626,protein_based,yes,no,no,Delhi,12,sugar_intolerance,185857,college
+59e545b3504e4e3c80c7cee6731f7ea8,Brittany Curtis,19,married,female,63,183,6,735,protein_based,yes,yes,no,Tokyo,56,none,210093,other
+f46502049a154cd4927cca7a26bd609f,Daniel Webb,27,widowed,male,76,173,17,1695,vegetarian,no,yes,yes,Tokyo,30,diabetes,383420,high_school
+75cc27b893c94d9ab4afcd6b813f0646,Jeffery Zuniga MD,20,widowed,male,68,125,10,972,protein_based,yes,yes,yes,Paris,79,none,172171,high_school
+f79350e9d74349b28665e90c60d782da,Jason Malone,40,widowed,male,101,188,3,7,protein_based,yes,yes,yes,Shanghai,77,none,963069,other
+27b3dcb3361a4c809c526a112c883231,Charles Franco,21,widowed,male,65,205,6,2410,other,yes,no,yes,Shanghai,83,heart_disease,731562,high_school
+b4df0fd64c484b05a1438ee46e857152,Catherine Walters,58,single,female,45,161,18,1640,other,no,no,no,Shanghai,98,diabetes,945839,other
+edc357cb24ed4a47be423d63ffc9b192,Jessica Jones,48,single,female,95,211,5,811,protein_based,yes,no,yes,New York,42,none,475246,high_school
+f14dbeb4631442739b2f743510d0b3fc,Kelly Rodriguez,20,divorced,female,70,186,24,1504,other,yes,yes,no,Tokyo,20,other,516036,college
+10d0148d4cf543b0b78efa268d48891b,Ricky Smith,45,single,male,129,182,13,809,other,no,no,yes,Tokyo,42,diabetes,463088,university
+1be252d4d71b411ba783f7a413a0f5c5,Lisa Davis,48,widowed,female,56,172,3,66,carb_rich,yes,no,yes,Shanghai,69,none,174909,college
+108dbd3dc6cd4c8ab33198d460f61533,Dr. Brenda Wilson,27,single,female,85,172,23,110,carb_rich,,no,yes,Dubai,38,sugar_intolerance,122380,university
+b0314fbfe09c4d469f45322e1ae7c207,Michael Hays,17,widowed,male,95,134,2,3481,carb_rich,no,no,no,Paris,100,heart_disease,549340,high_school
+4fb7e975ebdf432a9f4f4a8ad92c16b9,Mathew Garza,60,divorced,male,108,210,8,1520,vegetarian,no,yes,no,Delhi,72,other,847475,high_school
+7de6900da74b49e8860622d77a3ffc15,Stacey Chavez,26,widowed,female,48,135,14,3543,vegetarian,no,yes,yes,Paris,15,none,407856,college
+bba46c89d14f466785602524bed4e198,Samuel Alexander,44,single,male,117,120,3,276,other,yes,yes,yes,Paris,2,diabetes,392443,university
+48fb2ced566547d3926c2a099b0fa97b,James King,30,divorced,male,73,163,22,2272,vegetarian,yes,no,no,New York,45,sugar_intolerance,395206,university
+459ac188a6e04ce08c706c85192eacc1,Stacy Brady,60,married,female,115,140,21,1347,protein_based,yes,no,yes,Shanghai,50,other,486260,high_school
+8922c1b007c04195a057f5e640df8e3a,David Cannon DVM,16,single,male,83,190,12,3708,other,yes,yes,no,Delhi,6,sugar_intolerance,490817,high_school
+95f13ec1a01a428093f9c40e4f5b8887,Stephanie Luna,50,divorced,female,89,179,2,510,vegetarian,yes,yes,yes,London,84,sugar_intolerance,103014,other
+7357ccf293d94ab4ac4b99e7c9e5c5f1,Tyler Mcbride,36,divorced,male,128,195,18,3675,protein_based,yes,yes,no,Paris,13,other,599872,high_school
+a52bacb8129d490c977ca83ee4fc3e1d,Christopher Powell,48,single,male,120,147,4,1635,other,no,yes,yes,Dubai,30,heart_disease,809823,college
+5589259d12e049ba938490e0bde9820c,Amy Walker,16,single,female,90,152,8,1228,vegetarian,yes,no,yes,London,58,heart_disease,807662,other
+d59de4a2cbb04ac7bc5889189eea9b6c,Carolyn Gutierrez,44,widowed,female,51,166,24,2060,vegetarian,yes,yes,yes,Shanghai,65,diabetes,931996,university
+960c2ea1f21f4d65861dd195ef814fde,Christopher Anderson,59,married,male,129,203,23,1543,protein_based,no,no,yes,,100,other,239565,high_school
+bf2f5b3054d04345b91486ce3389a98e,Meghan Adams,46,married,female,55,203,23,2401,other,yes,no,yes,Paris,3,none,119764,other
+d6ec97a56fdd45b99e0f4f12a4cad24d,John Bailey,51,married,male,60,191,16,1647,vegetarian,yes,no,yes,Dubai,71,other,474925,other
+b998094ed40341868801bff8db522f44,Sara Calhoun,26,widowed,female,125,206,16,,carb_rich,no,yes,no,Dubai,88,heart_disease,85364,college
+161484450f4448f8b2a0adfffdeecdc9,Jessica Johnson,48,widowed,female,107,196,22,1651,vegetarian,no,yes,yes,Delhi,90,none,80284,college
+569cb21f981e4935b9873ba452235cc5,Danny Jones,53,divorced,male,101,176,19,1685,vegetarian,yes,yes,yes,Dubai,16,sugar_intolerance,232810,university
+087e1223950e4fc599f3a43ea73beac0,Caleb Harris,54,divorced,male,122,196,0,559,other,yes,no,no,Delhi,45,diabetes,151364,other
+b09c152028e34e2da5b654049173dbad,Kathryn Sanchez,25,divorced,female,107,195,3,2763,other,no,no,no,New York,10,other,904033,high_school
+0407bc1d9bb74b3c9de5864fcccac624,Linda Hess,41,widowed,female,50,132,12,3363,other,yes,no,yes,Tokyo,10,other,837386,college
+aff3a0f5c3874fbea16bdd41dbb0e382,Joshua Torres,53,married,male,45,220,14,524,carb_rich,no,yes,no,London,46,diabetes,452813,other
+4c159e8b42b24630b67a4f132a01ad63,Jonathan Rodriguez,53,widowed,male,96,180,11,2772,other,no,no,no,London,29,none,297909,college
+2402d0dd50514283988bda42f544abb5,Michael Terry,53,divorced,male,106,209,2,63,carb_rich,yes,yes,yes,London,72,sugar_intolerance,62494,university
+5ea6ece46a2643629959bd9ab3b8b41c,Brent Davis,45,widowed,male,118,160,5,630,protein_based,yes,no,no,London,30,sugar_intolerance,888546,high_school
+e09ac1273d9a4db5b878c6bb3858f4b7,Jeremy Duran,50,divorced,male,129,136,16,2667,other,no,no,yes,Tokyo,73,other,120184,college
+1bfabe080f004330b05c2ec11e5b6305,William Patel,23,married,male,66,198,2,2110,carb_rich,yes,yes,yes,Shanghai,46,none,776531,university
+ac8e6278ecb64505a943f07cde08623b,Jennifer Anderson,58,single,female,100,122,14,3738,protein_based,no,no,no,Dubai,79,heart_disease,466871,university
+849a07ce8bd843c7a8ff223e34373190,Charles Pugh,60,divorced,male,49,212,10,360,carb_rich,yes,no,no,,4,other,519620,college
+1086c98d8c154a45870aafaf3cd3292b,Julia Thomas,37,,female,78,193,3,2990,protein_based,no,no,yes,,57,diabetes,329173,high_school
+493d7d8e1f104be185ab0f9ee2f8ec40,Nicole Peterson,55,divorced,female,72,150,24,3461,protein_based,yes,no,no,London,100,heart_disease,773712,other
+7aebcb657b874862b893497217a97218,Shawn Brock,53,single,male,54,195,18,2968,protein_based,yes,no,no,London,61,other,555915,college
+cde8b98f510e46c69779831f4c05d60c,Robert Martin,48,single,male,72,215,2,,vegetarian,no,no,no,Delhi,85,none,816376,other
+e2f205e09184431d91789d6d8d5671e6,Mrs. Maria Hall,57,widowed,female,79,126,8,1102,vegetarian,yes,yes,yes,Delhi,74,none,709669,high_school
+0fce5c2060634216ac6d1dfaa5107b46,Erin Chambers,29,widowed,female,55,,22,1531,carb_rich,no,yes,no,Dubai,53,diabetes,399069,high_school
+91605786c99d4a538df9968b69aa0df2,Andrew Noble,40,married,male,89,130,4,862,other,,no,no,Shanghai,45,other,490493,university
+c0d37ece81e84cc69d03c3fc6edcb709,Samuel Horne,32,single,male,102,134,0,489,other,no,yes,no,Dubai,98,other,673116,university
+7ddf6b2094264967a844c48673507fa2,Brandon Stewart,47,married,male,106,173,3,767,protein_based,no,yes,yes,Dubai,5,sugar_intolerance,133599,university
+ed38db332e674a6eb231c1d9a9eeb8c5,Emily Pierce,49,single,female,86,212,4,3856,protein_based,yes,yes,no,New York,68,heart_disease,563841,college
+a1cd184a487d40428d912a61ffd6f179,Michelle Miller,23,,female,113,177,17,2214,protein_based,no,yes,yes,Dubai,72,other,875989,college
+3b6340337f7a4bdabad9bc71457a0ec5,Andrea Stein,19,married, ,128,170,8,165,other,yes,yes,yes,Shanghai,26,sugar_intolerance,810869,other
+2021c4604c7447498040db881703e9b2,Jose Thompson,60,divorced,male,110,189,1,1491,protein_based,yes,no,yes,,100,none,989175,other
+e1abb5db411244f78583c692f24b8086,Jennifer Hodge,50,single,female,68,166,11,3702,protein_based,yes,yes,yes,Tokyo,36,other,812441,other
+89fc28f2771e4dabbfee8809a5b59152,Mark Johnson,48,divorced,male,,217,7,3226,carb_rich,no,yes,yes,Delhi,17,heart_disease,985063,college
+0bd287e807884489a0a36487878bb482,Cynthia Taylor,60,single,female,105,152,,1180,other,no,,yes,New York,1,none,106158,college
+f7e5bc640c294279af117f47532aa646,Zachary Henderson,16,widowed,male,53,159,6,2174,carb_rich,no,no,no,Dubai,12,sugar_intolerance,177380,high_school
+8024cc597b6643088471dbf44fadaef6,Daryl Castro,35,divorced,male,71,156,6,2410,other,no,yes,no,London,65,sugar_intolerance,944593,other
+82c28f3db3934d34b0a7c2949c27726c,Jacqueline Phillips,18,single,female,62,139,22,1870,protein_based,yes,no,no,Tokyo,67,heart_disease,572575,college
+e21e4d2c7cac416aaf4d48a05ef8d2f9,Joseph Smith,32,single,male,112,178,20,3367,other,no,yes,no,Tokyo,1,sugar_intolerance,884036,high_school
+f16dd26837b84507a65da929a98e8cc4,Glen Garrett,54,divorced,male,103,219,13,3075,vegetarian,yes,no,no,London,27,sugar_intolerance,475268,other
+3e2537fcac3244569432a0248cab4eed,Connie Harper,51,divorced,female,115,193,0,1785,other,no,yes,no,London,81,diabetes,596457,other
+ff5becf53b9543b18e28515d29a522e3,David Kirk,27,divorced,male,121,170,19,135,vegetarian,no,yes,yes,New York,51,heart_disease,331867,other
+78da5ae1d8624a4e8cfb16503ad370e2,Ashley Davis,28,single,female,104,208,19,1137,protein_based,no,yes,no,Shanghai,20,diabetes,783966,college
+be164de9af274e35a2f5f2e1bcc5e097,Carolyn Chambers,42,divorced,female,71,191,22,3366,vegetarian,yes,no,yes,Dubai,81,heart_disease,408587,other
+3b1bcdf663e9425c84f792190adcfac8,Nicholas Martinez,37,widowed,male,60,144,5,1147,other,no,yes,yes,Delhi,23,none,603351,high_school
+26b53a9d90f04fc9a529a04a5d08a11e,April Hudson,32,married,female,102,205,5,2021,protein_based,no,yes,yes,London,46,other,308434,university
+ec16f6c322274b629314329cd75b4ef1,Rebecca Ayers,25,widowed,female,116,200,11,,protein_based,yes,no,yes,Delhi,94,none,144819,other
+f870723550b74df1a0bc33359615cbdf,Todd Farley,34,divorced,male,50,168,23,943,vegetarian,no,no,yes,Shanghai,27,sugar_intolerance,891967,college
+bcaebe316f2b426296fad65089b1c79b,Daryl Santiago,24,divorced,male,123,136,5,115,carb_rich,no,yes,no,Tokyo,60,sugar_intolerance,681007,university
+bbd357e02d5b4a2aa814de00d63d2bc7,Melissa Taylor,56,single,female,74,133,11,3111,carb_rich,yes,yes,yes,Dubai,74,other,566898,other
+9df035a1edd64a9ea9af4dc2f19533e7,Matthew Garcia,29,widowed,male,63,194,18,736,protein_based,no,no,no,Paris,14,diabetes,527678,high_school
+6f58e571713d498c9537007df8776ed1,Teresa David,43,divorced,female,109,201,2,694,protein_based,no,no,no,Dubai,22,other,607901,high_school
+a44171c7e2894fa7904c7c5d117d4b68,John Hunter,33,divorced,male,115,142,23,3737,protein_based,yes,yes,no,,59,diabetes,319226,college
+2c63a34b0bd84c4ebdd9fbef43bbb464,Patrick Oneill,16,single,male,72,206,3,834,vegetarian,yes,no,no,London,89,diabetes,835407,university
+d95d9f1c5b224022a7a54e4666704ef0,Joshua Smith,30,widowed,male,88,159,17,3752,other,no,yes,no,Shanghai,39,heart_disease,559334,high_school
+baad3e0b66b5441eb18b58904e1299af,Paula Johnson,29,divorced,female,118,174,3,3840,vegetarian,yes,yes,no,Shanghai,93,diabetes,263929,high_school
+b3e23fa9599c4579b30588609938bb45,Stephanie Patel,35,single,female,127,175,3,3430,other,yes,yes,yes,Shanghai,86,none,232383,college
+169bc41daebb4fc18bdfea7da2765f35,Anna Hart,20,divorced,female,77,131,18,928,vegetarian,no,no,yes,Shanghai,1,heart_disease,721687,college
+e3a05628dd3c4e878bcda1bd119be22e,Kendra Murphy,46,single,female,71,160,10,842,vegetarian,no,yes,yes,New York,78,diabetes,285638,university
+0a82a50753d04e20aba5aadcca7c6732,Jennifer Brown,38,widowed,female,127,139,0,2665,protein_based,no,yes,no,London,64,none,211904,other
+8d591bfc44ee4b9aae1690d5082f2730,Michelle Torres,59,divorced,female,127,160,19,3718,carb_rich,yes,no,yes,Shanghai,21,diabetes,35567,other
+70274070f5ad49639cfe29122c0eca55,Hannah Foster,47,widowed,female,112,121,6,2120,protein_based,no,yes,yes,Delhi,27,heart_disease,957144,college
+c32653d4d01e4f54bb96d73bd18a7b8a,Sandra Lopez,37,divorced, ,60,137,2,78,other,yes,yes,no,Shanghai,37,diabetes,473230,university
+e83ca3744de64b5f9671bfa7c86b4794,Kaitlin Moore,40,single,female,51,143,15,2347,protein_based,no,no,yes,Tokyo,82,none,59959,university
+68dab454a8384cf1ac663730a8ab457a,Dennis Reynolds,36,single,male,88,217,14,393,protein_based,yes,yes,no,New York,1,heart_disease,145130,other
+428becfe6ee7469eba9c0606b14703bf,Charles Peck,60,divorced,male,86,200,20,504,vegetarian,no,no,no,Tokyo,29,heart_disease,650714,university
+ebe870671e0b49b58593f49b9691297e,Whitney Solis,46,widowed,female,108,200,23,2368,vegetarian,no,yes,yes,Paris,44,other,741603,high_school
+5338ce10a50d495ebcfa845a49ebc09b,Sarah Santos,18,single,female,89,174,21,695,vegetarian,no,yes,yes,Paris,16,diabetes,984482,other
+18a8101570ed4dfc90f4d36f4cf53e0d,Jacob Mathis,47,divorced,male,84,156,4,1790,carb_rich,yes,no,no,Dubai,98,heart_disease,928578,college
+df33738ffdea4114899f60445668ad44,Amy Kirby,26,married,female,92,179,10,1479,carb_rich,no,yes,yes,New York,89,diabetes,220118,high_school
+4abb489d31354dd59f954c6fb1356b36,Carol Miller,32,single, ,116,143,6,2661,vegetarian,yes,yes,yes,Delhi,27,other,157054,college
+c11f7818edbd45eab38c30078214f247,Alexander Stein,27,widowed,male,66,175,15,1977,other,yes,yes,no,Delhi,91,diabetes,591789,other
+c772105137fa4a248e7d605eb6f08723,Michael Marks,30,divorced,male,85,216,13,3892,vegetarian,yes,yes,yes,Delhi,21,other,854496,university
+d7a9f1e0da3840819c654e1ddd00a992,Tammy Greene,39,divorced,female,61,155,16,1380,other,no,yes,yes,New York,95,diabetes,707678,high_school
+9535409cf50e435a91277269f8c67a12,Jason Wiley,54,widowed,male,99,182,9,2535,carb_rich,no,yes,no,Shanghai,74,other,841766,high_school
+826ce213f2694cd1acbe71ef844735b3,Lindsay Sanchez,47,divorced,female,109,161,10,770,other,yes,yes,no,Paris,86,other,139411,other
+d1cd3ec1d6054e99bb9b78de8f4da5d8,Dr. Tyler Lewis,,married, ,111,207,7,1260,carb_rich,no,no,yes,Tokyo,95,heart_disease,422877,other
+756759a45e754c53968195fe60eae66a,Frank Owen,35,married,male,112,189,22,1097,protein_based,no,no,no,London,92,other,155742,high_school
+b7976b11e4514011ba4d803398833f8c,Joshua Ortiz,42,divorced,male,111,143,9,450,vegetarian,no,,no,Paris,46,heart_disease,430274,college
+c93eb70e89cf438282db1d4a49127466,Timothy Martin,52,married,male,97,163,7,2409,protein_based,no,yes,yes,Dubai,95,none,820882,high_school
+54854236027d47cc9886eec37498d29d,Mary Blevins,28,widowed,female,94,142,7,3980,vegetarian,no,no,yes,New York,96,sugar_intolerance,526258,high_school
+fa4cc361f9bf4fde8821f2fef3294ded,Elizabeth Giles,40,single,,113,151,2,3713,vegetarian,yes,no,yes,Paris,26,diabetes,975704,high_school
+1614fb3c999144f5aeec6cce3e53ac8e,Oscar Sanchez,24,widowed,male,72,138,20,2487,protein_based,yes,yes,no,Delhi,42,heart_disease,555534,other
+4ad120fc5ea64577b7843f5ed9984812,Eileen Irwin,18,widowed,female,48,206,22,2396,vegetarian,yes,no,yes,Dubai,32,none,241204,university
+3096e4b0f51a4100913e1fcdc78216b3,Joseph Thomas,46,married,male,125,214,9,1360,other,no,yes,no,New York,9,other,220712,high_school
+64dfa753de0d4ca5bb52027018549bac,Katherine Ramirez,55,divorced,female,97,219,8,933,other,no,yes,yes,Delhi,60,diabetes,411259,university
+8a79e638d2264041917af015b1250ec2,Marvin Pennington,42,widowed,male,112,122,10,1713,other,yes,yes,no,Shanghai,31,sugar_intolerance,910493,university
+7bd2701aab734dc19af5164ceeecd9a3,Aaron Tran,26,single,male,52,165,6,1440,carb_rich,yes,no,yes,Dubai,7,none,214490,university
+d9059c026eda4d759d720726c459098a,Abigail Wilson,23,married,female,95,211,19,1087,protein_based,yes,yes,no,New York,76,other,240217,high_school
+4548d9e4625e4c6784f3a6ed51cf6757,Angela Steele,49,widowed,female,80,170,7,1345,carb_rich,no,no,no,Shanghai,91,none,40796,university
+adac83d513df45568ded66d777b56f82,Patrick Bullock,50,married,,49,202,9,2334,other,no,yes,no,,35,none,904556,college
+db75d4d82b9644b4b8be61fcb4cde3fd,James Obrien,33,married,male,54,181,22,1367,protein_based,no,no,yes,London,84,heart_disease,718987,high_school
+408bb754cee84ccdbcd3c5c48e41d770,Brian Fry,17,married,male,94,187,2,656,,yes,yes,yes,Shanghai,79,heart_disease,213179,college
+a839631ad5eb48c99f57b4d0cf6610f2,Rhonda Keith,36,single,female,82,206,2,2959,vegetarian,no,,no,New York,34,sugar_intolerance,161627,university
+28844ccda2cc4fb58d8c565798b484d8,Eugene Powell,34,widowed,male,65,156,15,2385,other,yes,yes,yes,Tokyo,80,none,503895,high_school
+8481ba4ec83846f69e3f78119367b83d,Pamela Perez DDS,51,married, ,68,188,7,3889,vegetarian,no,yes,yes,Delhi,42,diabetes,297453,other
+7cbae2c92e02452da3efefcaf026e62f,Stephanie Smith,32,widowed,female,107,141,24,116,vegetarian,yes,yes,no,London,17,heart_disease,115584,college
+94f64c6c89e34ac3932e51c8f36e9b66,Eric Booth,17,married,male,48,188,10,3418,vegetarian,no,no,yes,Tokyo,17,other,973582,high_school
+9c81d1f381bb4d87931b869e7d80ebd2,Stephanie Hunter,41,widowed,female,61,141,0,1964,protein_based,no,no,no,London,28,other,310628,high_school
+920830c90e6c496dba3b7fff7db6ccc1,Juan Arnold,50,married,male,102,195,15,2530,other,yes,yes,no,Dubai,28,sugar_intolerance,704592,college
+fd9b21d3f1444cb8a5119aa4fc406d15,Jonathan Smith,26,single,male,126,185,16,1566,protein_based,no,no,yes,Delhi,89,diabetes,223602,college
+6636a963d3ea4566b7f950827f95f611,Christopher Hayes,37,married, ,87,130,11,801,protein_based,no,yes,no,London,86,none,994226,high_school
+ff654e042ae24ffa80f3e638f0206450,Steven Smith,32,divorced,male,88,184,7,2584,other,yes,yes,yes,Tokyo,23,other,578847,university
+8686483e90fb452e9c5fb3208e9318d4,Kimberly Richmond,30,single,female,96,179,23,1426,other,yes,no,no,Paris,57,sugar_intolerance,749270,high_school
+facf174bca324fce95461187f5ce7700,James Graham,41,divorced,male,55,214,22,932,carb_rich,no,yes,yes,London,6,heart_disease,949908,college
+aa0c298d3d054153b47f496c21466d58,Courtney Reid,22,single,female,109,164,15,1442,carb_rich,yes,no,no,Paris,40,other,0,high_school
+c54d3746543344a3be8e033e29608343,Amanda Ray,59,single,female,79,189,14,3312,carb_rich,yes,yes,no,Delhi,56,sugar_intolerance,424452,university
+927db4f0449942c89efdb4f4fbca7c5b,Kelly Gonzales,60,married,female,100,159,12,230,vegetarian,no,no,no,Dubai,26,heart_disease,2405,college
+0c718f3125f24407a978cad6a1aeb5d0,Stephanie Rose DVM,31,married, ,49,153,4,2931,protein_based,no,yes,,New York,52,other,501105,high_school
+8bd5b67d0dc54df79fe8b6f7dd6ac4d7,Joseph Allen,28,single,male,63,219,15,870,protein_based,yes,yes,no,Dubai,74,heart_disease,908919,high_school
+4931d08b73c94297a105e621131a28af,Adrian Larsen,40,married,,76,168,3,968,carb_rich,no,no,yes,New York,35,other,258201,other
+deaf981e9c5047c5891dc0e50fb707cc,Robert Suarez,25,divorced,male,102,187,13,5369,other,no,no,no,Dubai,84,heart_disease,691762,high_school
+ff427844c1404238b246bbdfc90b4493,Katie Tran,21,divorced, ,81,212,6,2966,carb_rich,yes,yes,yes,Shanghai,10,other,914991,other
+92e37a1c6fa744b28ae09e6bbfae738a,David Williams,38,married, ,120,146,12,2670,,yes,no,no,Paris,71,other,631388,college
+0c468961230c44ac990862abe7347c27,Russell Perkins,18,widowed,male,,147,15,2946,vegetarian,no,no,yes,Paris,18,diabetes,367860,other
+e3eb80dd04f340159601d6f456792e9a,Joel Armstrong,57,married,male,82,160,15,960,other,no,no,no,New York,33,heart_disease,907524,college
+19befb5d558b402cacd7f3f002b02068,Jessica Smith,23,married,female,80,125,23,1538,carb_rich,no,yes,no,Paris,57,sugar_intolerance,101648,other
+295832881e954651ab95b632a42104e6,Derrick Diaz,26,widowed,male,87,197,3,3905,other,yes,no,yes,Shanghai,73,sugar_intolerance,362128,other
+71c0f8b5aa3e435383ff2d9da3c7d4dc,Erica Garrett,46,single,female,94,127,19,3582,vegetarian,yes,yes,yes,London,7,diabetes,644983,university
+aa992ed760264e5cae7bdb891a476a42,Jeremy Sanders,25,divorced, ,69,188,9,1367,vegetarian,no,no,yes,Shanghai,93,sugar_intolerance,480848,other
+863f21c0eba94817ad796635a2d6773f,Philip Meyer,32,divorced,male,77,175,3,3778,,yes,yes,yes,Dubai,91,heart_disease,714201,university
+7748d30db751450a875e79ede69be654,Angela Greer,56,widowed,female,56,153,23,3154,vegetarian,no,yes,,Shanghai,73,diabetes,530026,high_school
+1aed5f0b8f4e4485af6ce2159d57d279,Patrick Brown,32,married,male,110,151,23,1586,protein_based,yes,no,yes,Delhi,41,none,107906,high_school
+059983dda2f44f48a626156b2a6dbc3a,Jessica Crawford,22,single,female,81,205,14,3172,other,no,no,no,Tokyo,85,none,115645,other
+76c722a7a25a4244a095a3233adafcb8,Gary Mcconnell,60,widowed,male,52,134,24,487,other,yes,yes,,Tokyo,23,diabetes,6308,other
+c30287e34ac24bfa81a5edfebea12e44,Ronald Smith,52,divorced,male,62,124,4,293,carb_rich,yes,no,no,Paris,87,,918694,college
+4c4ffe09f8364808957d453a53aa2d0c,Michelle Roberts PhD,56,widowed,female,107,130,,1428,carb_rich,no,no,yes,Dubai,34,other,975574,other
+ac836adca0b049eda4025fda97ccc352,Michael Jimenez,27,widowed,male,57,133,3,2033,protein_based,no,no,no,London,21,heart_disease,351219,other
+a37546992d0742d3a7bc6f900bd7878b,Edward Moore,39,widowed,male,52,141,8,574,carb_rich,yes,yes,yes,Dubai,52,sugar_intolerance,87665,university
+c44e29bdfda24388a23e2cfd80c9a029,Amber Miller,28,married,female,78,179,4,1091,protein_based,yes,no,no,Dubai,17,other,104869,high_school
+65d0c466394e4c2eba73c8099d3919aa,Melissa Tran,58,married,female,72,200,20,25,vegetarian,no,yes,yes,,64,other,420610,college
+c488e0f9fe3a4165953dde5b0c093c20,Lisa Rogers,29,widowed,female,102,203,9,2114,other,yes,yes,no,Delhi,52,heart_disease,173429,high_school
+c349a335c3c24afd92be7f1257c2db47,Joshua Sullivan,51,widowed,male,117,156,20,1874,vegetarian,yes,no,yes,Dubai,29,other,896118,high_school
+8ca32630302c4046a8286dd8e66d9888,Michael Paul,29,divorced, ,84,140,1,1412,vegetarian,no,yes,yes,Delhi,23,sugar_intolerance,416526,college
+b0bdf262cba4485caf4869235d84909b,Kimberly Jones,60,single,female,107,122,8,3108,protein_based,no,no,no,Dubai,12,sugar_intolerance,668938,high_school
+70fc0f52bad746ad8880d73e64ba4101,Caroline Cline,52,married,female,89,185,24,1111,protein_based,no,no,yes,London,84,other,67633,high_school
+90e768f6e8f9456aafe6f4ff3c5c0068,Rachael Roberts,23,divorced,female,99,170,14,3877,other,no,no,no,Dubai,88,diabetes,711792,high_school
+0fdeb1595f884283ad910353dc581688,Alexandra Gonzales,28,single,female,75,124,19,3547,vegetarian,no,yes,no,London,53,other,556220,college
+e13f8058cc534469b95d97e3d3507d10,Shawn Johnston,34,married,male,111,126,14,1135,protein_based,yes,yes,yes,Dubai,79,heart_disease,618073,other
+589a7c79cc8642a6b78a85b637e0965e,Joshua Barrera,42,single,male,94,187,8,2108,carb_rich,yes,no,yes,Paris,89,heart_disease,972094,high_school
+aba50f9daa71495ea1945a2249acb393,Anthony Flores,50,married,male,107,168,21,939,carb_rich,yes,no,no,London,53,none,78690,high_school
+396d7aa2796140b09c246ac7591451be,Laura Martin DVM,48,single,female,112,185,23,964,,no,yes,no,New York,61,none,530719,other
+c935d6843c3f40f2befff01f2c9c7bb6,Darryl Bennett DDS,53,divorced,male,128,160,3,3020,other,no,yes,no,London,94,none,835394,university
+eef0b7532b7e4147bb0ef8e566683a1e,Ashley Flores,44,widowed,female,116,147,12,122,other,yes,yes,yes,Paris,71,none,485414,high_school
+659574c3e26242039aeef8b74d9cc35c,Carl Atkinson,32,single,male,68,217,15,59,carb_rich,no,yes,yes,Tokyo,21,none,859921,high_school
+54269a652aad4922938527044b79fdbb,Samantha Martinez,30,divorced,female,,211,7,1051,vegetarian,no,no,yes,New York,49,diabetes,576289,university
+0640d6220dec4030b549171114eefaff,Jeremy Gamble,59,widowed,male,103,135,10,3261,protein_based,yes,yes,no,New York,94,diabetes,741626,college
+fbbe732f6222433ab6c7686fb7737cae,Nicole Erickson,59,widowed,female,129,181,18,314,vegetarian,no,yes,no,Tokyo,31,heart_disease,583100,high_school
+7cff06e699134caa9e040b80943410e9,John Hoffman,33,divorced,male,86,187,23,1967,other,no,yes,no,Tokyo,91,heart_disease,634238,university
+802ace4c2ada4368a189c95ba7cc0d2d,Terry Cortez,44,widowed,male,66,129,8,388,vegetarian,yes,no,no,Shanghai,87,sugar_intolerance,132063,college
+de223bcc9bce45acafcd3cdb3cec3300,Michelle Morrow,37,widowed,female,127,178,9,1627,carb_rich,no,no,yes,Paris,27,heart_disease,837703,other
+fd38725d427e4778927a97beac492974,James Rodriguez,44,single,male,86,203,8,3012,vegetarian,no,yes,no,Shanghai,64,none,972523,other
+8a9f77e9d6554f5a9aee328fd23c9edc,Jordan Robinson,28,divorced,female,86,163,19,296,protein_based,yes,no,no,Dubai,73,sugar_intolerance,586381,university
+9bdc536a29b94fbda25375ab45536e21,Philip Hill,21,divorced,male,114,148,21,568,carb_rich,no,no,no,Paris,5,other,441405,university
+0a1c036991f648739a5470e5fabfb774,Kristine Williams,46,single,female,104,162,11,998,vegetarian,no,yes,yes,Tokyo,17,heart_disease,185400,other
+68eb3cf4e59a4335baaab20881350eeb,Ashley Lewis,52,divorced,female,47,123,6,1210,carb_rich,yes,yes,,New York,81,heart_disease,108997,college
+0878fee0da5f4aea972b75db6a88aba9,Michael Alvarez,44,married,male,63,215,14,3696,carb_rich,yes,yes,no,Tokyo,40,heart_disease,873337,college
+0f05e0ee13634e749917e6a926742176,Kelly Zimmerman,25,widowed, ,86,220,21,3043,protein_based,no,yes,no,Shanghai,20,other,48059,university
+19ba8fad9ff5499f982b01aef8c004fd,Derrick Adkins,26,divorced,male,61,194,3,267,vegetarian,no,no,no,Paris,28,none,341210,university
+0f1f0c40c4024a8294e8739df3133dd9,Christopher Morrison,34,single,male,72,191,9,3437,other,yes,yes,yes,Delhi,94,sugar_intolerance,203645,university
+faf5d8cbb04e43b28c0ee492f83a913b,Richard Gonzalez,27,married,male,72,196,13,1880,vegetarian,no,no,yes,Paris,95,heart_disease,830624,university
+2d1859d0524c474c87b168ff3e6e6884,Michelle Lopez,17,divorced,female,86,177,8,3,carb_rich,no,no,no,London,24,other,194334,university
+20dcc04903fd41718d0de6318aceb191,Jason Davis,46,single,male,66,220,1,2012,other,no,yes,yes,Delhi,69,heart_disease,476486,other
+2cd9ef5c8ed940e489ebccbb6a47eccc,William Robertson,33,widowed, ,90,198,12,1694,carb_rich,no,yes,yes,Paris,21,other,780507,other
+8436ecdc28d447c8b0ef7a91d6d2e8c9,Thomas Hill,48,widowed,male,85,207,9,2025,vegetarian,yes,no,yes,London,69,other,154908,other
+ebb796d5f0a84c878eacbb41c1d0f253,Sandra Hill,58,single,female,74,189,20,3553,protein_based,no,yes,no,London,6,heart_disease,516881,other
+80f1154d86534a009348149d14472641,Tracey Brown DDS,21,divorced,female,53,183,14,13,other,no,no,yes,Dubai,68,heart_disease,473694,high_school
+cbaa04161bb246958b37a98bbb865e03,Larry Patterson,23,married, ,115,180,1,3164,protein_based,yes,yes,yes,Shanghai,99,heart_disease,852922,other
+6ebcd9c0c3f9441381049c3e9db50074,Tara Dodson,34,divorced,female,94,195,8,3502,carb_rich,yes,no,no,New York,49,diabetes,42966,other
+129a230c8a934ee1b0de0538a803e7a0,Francis Combs,21,divorced,male,45,150,6,1981,carb_rich,no,no,no,New York,5,heart_disease,768352,other
+c8bdfc08eee84d0fabc472aec7d49073,Sandra Fernandez,59,widowed,female,53,141,13,915,vegetarian,no,no,yes,Paris,93,sugar_intolerance,233475,college
+db42620fff084364bc649bfeb2273184,Luke Castillo,29,married,male,112,186,13,395,carb_rich,yes,no,no,New York,18,other,321160,other
+bd13dc01a7db415da31d946319bdc953,Kenneth Wall,37,widowed,male,83,149,8,1835,vegetarian,yes,yes,,London,51,diabetes,216678,university
+00f84b43944f40dbaf28d60c9bf1b55e,Jennifer Rodriguez,32,widowed,female,46,164,13,2329,protein_based,no,no,yes,Tokyo,34,heart_disease,42246,college
+4432eb4365ad42bcbb9e778580a89f6b,Anna Blair,37,single,female,104,154,18,3061,carb_rich,no,yes,yes,New York,85,diabetes,367614,high_school
+440d3666fbbb412a93e0c289006e4577,Matthew Williams,55,divorced,male,69,208,11,2157,other,no,yes,yes,Delhi,78,other,0,university
+176cf87751b248e1ba658c0ba05dd4c4,Patrick Graham,40,single,male,77,149,4,1268,vegetarian,yes,yes,yes,Tokyo,2,none,711341,high_school
+d95d7469970445818fb23fbeb13db945,Rebecca Hunter,39,married,female,89,197,1,1312,other,yes,no,yes,Dubai,43,sugar_intolerance,148660,university
+220667dde22e4bdf98c4cad3a8a7c72b,Phillip Glass,35,divorced,male,55,141,14,3917,vegetarian,no,yes,,Dubai,68,sugar_intolerance,460376,college
+af92ce7250584efdb7ea40fdfc25c790,Morgan Walls,29,divorced,female,95,187,4,3382,other,no,no,no,Shanghai,90,none,972237,high_school
+7727e3fabe9542faa925ed4dc9b95a08,Ashley Kennedy,39,single,female,74,138,5,3833,other,no,no,no,Tokyo,56,other,662164,high_school
+807cd8c17b9a4849b3c2c481eeba5644,Jennifer Pittman,33,married,female,70,127,24,2567,carb_rich,no,no,yes,Paris,46,heart_disease,760743,college
+248075b0d44b4700809ce59c58a3bf11,Kathy Kelly,17,widowed,female,93,191,21,378,other,no,yes,no,London,81,heart_disease,656484,other
+66dc5428ce524b07837c3c86e43a89e4,Brian Sanchez,28,divorced, ,99,159,5,1395,other,no,no,yes,Dubai,48,sugar_intolerance,506590,college
+c68f10f7f71f426e8e7d8de60a90ec8b,Michael Cline,,divorced,male,86,126,2,3476,other,no,no,yes,Delhi,44,diabetes,427395,high_school
+12bc3c7019e44c7b8079113fd8162212,Megan Jones,51,,female,88,212,12,447,carb_rich,no,no,no,Tokyo,34,sugar_intolerance,52711,high_school
+bfe781a0b32f4d7083102139331c28ca,Robert Mcclain,38,married,male,115,211,8,1763,vegetarian,no,no,yes,New York,99,other,934004,college
+a8fad0ff1fae43dab8902661699038b2,Samantha Thomas,19,divorced,female,95,196,6,3087,vegetarian,yes,yes,no,Delhi,11,diabetes,496213,college
+bb18676923424f46bf3322a73ddeb6e6,Erika Estrada,35,married,female,57,123,6,2844,protein_based,no,no,no,London,43,none,620254,college
+ac9d6bd1cd94492e9fc04f0d17b88bb0,William Gordon,56,married,male,60,159,2,3522,carb_rich,yes,yes,yes,Dubai,34,diabetes,380747,university
+79b45ea356744ef79f7a8bcd282babe5,Dana Salinas,29,married, ,108,147,3,2639,carb_rich,yes,no,yes,Delhi,82,heart_disease,959256,other
+0747118667804a95a3bf38c6a0227bc4,Laura Moss,25,,female,56,207,8,3930,protein_based,yes,no,no,Shanghai,53,other,160940,college
+60ead0aab6a34720a7d2b40c4d46224d,Patrick Jones,48,single,male,121,155,13,3243,vegetarian,no,no,yes,Delhi,94,diabetes,914809,other
+1f6bf02fe5014b4c92bb1bd370943bfc,Aaron Harris,59,divorced,male,54,162,11,695,carb_rich,yes,yes,yes,Tokyo,33,heart_disease,799318,university
+01b1b0af798d4f42929a0d29c842d8f7,Nicole Davidson,59,widowed, ,110,218,13,3130,carb_rich,no,no,yes,Paris,3,diabetes,421417,high_school
+bfcfec906bce4addb24edba41f432cee,Lauren Griffin,20,,female,76,120,2,1905,vegetarian,no,yes,yes,Shanghai,26,heart_disease,254380,high_school
+145627436b8d4fed950cbcd0530fd4cf,Carol Owens,52,widowed,female,129,177,12,142,protein_based,yes,yes,no,New York,27,diabetes,329169,university
+1b1cd4f10b0e48f3b12e541d3e93fa06,Virginia Taylor,41,widowed,female,66,136,2,1631,carb_rich,no,yes,yes,London,80,sugar_intolerance,,college
+47145ce1858d45c7ba07df6e9d5b1d4b,Jenny Barnes,34,single,female,111,167,10,2093,vegetarian,no,no,no,Delhi,51,other,205223,high_school
+6e6f4e9195e3463da2d76e2c5c40b22a,Melissa Klein,55,widowed,female,52,150,0,1700,other,no,no,yes,Shanghai,96,none,914943,university
+548e3700024e4d09811cc8b25d5d6cd4,Tara Rivera,27,divorced,female,54,158,1,2810,vegetarian,yes,no,no,New York,61,other,511586,other
+a2c89e1d90d143b1bf7bc948075b2776,Rita Smith,23,,female,101,156,5,3832,other,yes,no,yes,Tokyo,8,heart_disease,543487,university
+4fabb80c73d14a9687538cb18a00af5b,John Williams,33,single,male,47,218,1,1598,protein_based,yes,no,yes,Paris,7,other,22458,other
+b77081180e774c9aba8a51d9d76ef855,Zoe Walsh,38,divorced,,75,212,2,2479,carb_rich,no,yes,no,Dubai,36,none,548079,college
+600b58edd3564b5fb1ecb38af3bb2c13,Diana Davis,27,single,female,110,166,1,778,other,yes,no,yes,Tokyo,16,diabetes,464440,college
+950e5ea7a3d94721bfcb4e6e0ad43ee6,Sean Gonzalez,25,married,male,102,204,7,2003,other,no,yes,yes,Shanghai,64,other,425895,university
+3e4156f1052b4098b5ab4aa60986e60f,Stephanie Fischer,39,widowed,female,55,157,24,1112,carb_rich,no,yes,yes,Dubai,39,heart_disease,796017,college
+8fbc062209414d20a3aa3b064c929c46,Michele Sullivan,33,widowed,female,122,155,1,3384,protein_based,yes,yes,no,Tokyo,46,none,677727,other
+5a22d48223b140018dca15dde3c72d73,Emily Wolf,19,widowed,female,50,124,22,3232,carb_rich,no,no,no,Dubai,1,none,856175,university
+73d0af03c5c5451ebfdd5adbe45502cf,Lisa Brown,28,single,female,106,157,18,342,carb_rich,no,yes,yes,Dubai,89,sugar_intolerance,504772,other
+9fd5db1766234e8082e54ffe975019bb,Jerry Orozco,15,married,male,89,138,15,62,other,no,yes,yes,Shanghai,68,none,236325,high_school
+42c486b5f38e41f687687fc196824d68,Leroy Montgomery,30,divorced,male,55,209,19,3447,carb_rich,yes,no,no,Paris,74,other,358608,college
+bdec3a92ac8a481387551ab9f820c7dd,Deborah Montoya,38,widowed,female,89,136,19,3069,other,yes,no,no,London,3,none,152703,university
+aff434d8aba94f2eb5b2e5ba87188abf,Michael Austin,51,married,male,74,185,14,3615,protein_based,yes,yes,yes,London,52,other,740161,university
+d1ad725263494d1aad41eb915f828bc4,Sherry Gonzalez,34,widowed, ,80,194,18,1246,other,no,yes,yes,Delhi,25,sugar_intolerance,893118,university
+07efcb2910b44ed3917b1bc685bb5018,Ronald Fernandez,31,single,male,64,172,19,1896,other,no,no,no,Paris,64,none,517567,college
+a04d2340c0d141c2a5c0ebd1b6494315,John Webb,32,married,male,82,201,21,2266,vegetarian,no,no,no,Shanghai,82,diabetes,794151,high_school
+5c05767358484e00aa24d94ed5ae5860,Robert Moore,40,single,male,107,166,1,3450,carb_rich,no,yes,yes,London,12,other,477057,college
+9dd63d52f424419bbbe8e597145552f7,Candice Cox,51,married,female,106,120,17,3996,protein_based,no,no,yes,Tokyo,35,sugar_intolerance,652869,college
+a730d8e0e0c74483bc0e0a7e22bfb914,Candace Acevedo,41,divorced, ,58,211,8,2884,other,yes,no,no,Dubai,54,sugar_intolerance,712511,university
+7afffd7f09da4988aaaa2097e278e02d,Amanda Le,57,single,female,47,162,11,2958,other,yes,yes,no,Tokyo,14,none,906922,high_school
+f5898556dccd4287b0b6e7267efad2df,Crystal Harrison,24,single,female,129,188,15,952,other,yes,no,no,Delhi,49,none,997555,high_school
+90650d9e8fd14c16950f9445aec63be1,Jeffrey Wood,18,married,male,108,193,3,1701,other,no,no,yes,Delhi,55,other,657995,high_school
+b8336878b84a4d35bf12d6254c283946,Charles Montes,52,widowed,male,74,196,8,319,vegetarian,yes,yes,no,Delhi,29,none,321060,college
+55ff34e6d1914e4a8b21972edc964951,Megan Lamb,54,widowed, ,78,210,19,700,protein_based,no,yes,no,Dubai,75,diabetes,949009,college
+34360ce9db0b4ad49c02560ae9a71c3a,Marc Morrow,43,widowed,male,127,169,22,2830,protein_based,no,yes,no,Shanghai,24,other,769714,college
+2eface286fb547b78e475d3794a3ff78,Linda White,16,single, ,118,127,19,2173,carb_rich,yes,yes,no,Dubai,55,heart_disease,899991,college
+4575b72a647f4f859783ab1d70f4013b,Cynthia Camacho,29,single,female,59,129,21,529,protein_based,no,yes,no,Tokyo,67,other,344979,university
+2f396e813824477fa039be51c82a8e18,Robert Campos,15,married,male,89,139,15,2977,protein_based,yes,no,no,Paris,31,heart_disease,394440,college
+70db5b8abc7848db8f19601856485bd9,Madison Cochran,60,widowed,,97,209,13,3261,vegetarian,no,no,yes,New York,87,heart_disease,954557,college
+6b358355c670421881b5cd03e5ee2f55,Thomas Johnson,39,single,male,126,198,7,1620,carb_rich,no,yes,no,New York,91,diabetes,139864,other
+97f8336f1657410699c070efe7a76a13,Dennis King,56,divorced,male,62,147,5,252,other,yes,no,yes,London,22,other,751096,high_school
+1b6eef3ec7a54a4dadb4dea2a3bdc968,Manuel Martin,49,single, ,90,135,13,3910,vegetarian,yes,yes,yes,Delhi,76,none,754863,high_school
+649ca058315842eca2b5545554f51c14,Joshua Roberts,46,widowed,male,68,147,8,626,carb_rich,no,no,yes,Tokyo,1,none,478112,college
+4408715c375b42e79537f04416fe18ae,Lisa Jimenez,41,single, ,91,151,6,2010,other,yes,yes,no,Shanghai,25,other,344472,other
+2f4e28ef940c41298410b0aa8474a703,Angela Rowe,29,widowed,female,78,131,6,1044,carb_rich,yes,yes,yes,Tokyo,91,other,89733,high_school
+c3830d04f683417f813692c01e14fd9f,Kelly Jones,55,divorced,female,118,200,16,743,vegetarian,no,yes,yes,London,55,diabetes,345395,college
+2b96aaa64f754c89a67b3e0dd9a7dff7,Alex Murphy,20,married,male,56,715,7,3582,other,yes,no,yes,Delhi,13,none,115554,university
+cafe2b918f9a42ac91ce1edb4273d0af,Catherine Poole,42,widowed, ,56,159,15,3660,protein_based,no,no,yes,,28,diabetes,171385,college
+2ec7ad2eb65b4f1ba0b3c04fa228e4ce,Jackie Henry,31,married,female,83,146,3,569,other,no,yes,yes,New York,27,diabetes,421586,other
+cc28bb8ca1f54d298654c79ca43be456,Lori Scott,46,married,female,53,147,13,1509,protein_based,no,yes,no,Shanghai,77,heart_disease,170590,other
+a528c42f241b48799d42cefa21f08bf8,Patricia Fritz,50,single,female,103,176,4,1227,other,yes,no,yes,Paris,71,other,164070,university
+09b0d00537d94c51b46fde66acdb0e56,Scott Perkins,24,,male,125,162,20,3360,protein_based,no,no,yes,London,100,other,11383696,other
+b93dcd7e36484115a3741f48da1c6047,Shelby Mcdaniel,20,widowed,female,84,134,17,289,other,no,yes,yes,New York,7,heart_disease,844869,university
+593eed39cc3845b78ee8c51f52283b2e,Philip Walsh,41,single,male,70,205,4,844,carb_rich,yes,yes,no,Dubai,24,none,221818,other
+cab0c3d399ac4a59bd09ae053bb65cf7,Lisa Joseph,36,married,female,45,179,24,525,,yes,yes,no,New York,6,heart_disease,238323,university
+ff5c59f6108e465991a09dc861450c29,Robert Allen,55,widowed,male,,205,6,441,carb_rich,yes,no,,Delhi,71,none,283409,high_school
+3837f20743444d5aabd465934fa82314,John Daugherty,17,single, ,63,142,15,435,vegetarian,no,no,no,Delhi,69,sugar_intolerance,852073,other
+2c0ba0a7b8ef4d838b5b698dc450726a,David Powers,40,,male,84,146,18,,other,yes,yes,no,New York,4,diabetes,446604,university
+34ec097f17da43b3bddb65564db4a722,Betty Phillips,21,married,female,66,193,11,2548,vegetarian,no,no,no,Paris,18,other,871320,high_school
+ab630525cc674ae8b4c94807232d00f0,Hailey Jackson,19,single,female,111,189,13,2838,other,yes,yes,yes,Delhi,96,sugar_intolerance,6446,high_school
+522b844e859947c1a26dde865813cf09,Brian Luna,44,widowed,male,97,1209,7,1500,carb_rich,no,no,no,New York,42,other,979904,university
+a05d8bc34bb14ed284972107eba8e124,Heather Watson,60,widowed,female,81,154,12,2816,carb_rich,yes,no,no,Tokyo,74,diabetes,86612634,university
+9daa0432e7494d5da8a69d219c99aa74,Danielle Spence,45,divorced,female,76,1+G38644,15,1862,other,yes,yes,no,Delhi,100,diabetes,188235,university
+1033b980c9954d8c824b95a0841b838e,Paul Moore,24,widowed,male,55,169,7,2991,protein_based,yes,yes,no,Dubai,10,sugar_intolerance,328971,university
+ecc89a23ed264dd09c51c783e2037d60,Andrew Walter,58,divorced,male,119,130,13,3582,vegetarian,no,no,yes,Tokyo,70,diabetes,157575,college
+83c193aae03f4bd79be2fec8562bab9d,Elijah Garrett,59,single,male,124,139,22,764,vegetarian,yes,yes,no,Shanghai,79,heart_disease,115838,high_school
+9b9307ad6cc14d7cbf31502e730ca12b,Raymond Miller,30,divorced,male,100,140,20,1098,vegetarian,yes,no,no,Delhi,53,none,579081,high_school
+d1c6c061177040dea8b5be3dd276cd14,Brian Wade,23,widowed,male,99,145,12,2589,carb_rich,no,yes,no,Dubai,22,diabetes,602075,other
+c541a36e93b24589a776b0974b2c070c,Evelyn Evans,26,single,female,48,176,8,529,carb_rich,yes,no,no,Paris,71,diabetes,107993,college
+78cb93e1d1694d508598762d9d892ce6,Timothy Roberts,17,widowed,male,66,220,4,2833,protein_based,yes,no,no,New York,74,none,42523,college
+be14f5d7558547328d71bbfedeaebceb,Andrew Goodman,25,married,male,49,186,6,2888,vegetarian,yes,yes,yes,Delhi,26,none,698386,other
+f9a3dcdffcb44ffbacaff01ba55dd27c,Tammy Berry,53,single,female,110,190,19,601,other,no,yes,yes,New York,60,sugar_intolerance,876693,high_school
+301db31ec4ae4967afa339d3b88b5a9f,Zachary Hart,25,widowed,male,60,218,21,2263,vegetarian,no,yes,no,London,18,sugar_intolerance,731927,university
+a5153cc0ab724632a090d95d1212ed8b,Andre Harris,41,single, ,128,190,24,1144,other,yes,no,no,New York,7,other,395558,high_school
+2557c6d47f5a4d78b575b1d3e6a2478f,Steven Stephens,25,married,male,56,147,24,3383,carb_rich,yes,yes,yes,Paris,31,other,114890,other
+613b547822ed43f6b9cba200e48e9bc2,Anna Stevens,51,widowed, ,81,140,20,2870,protein_based,yes,yes,yes,Shanghai,67,diabetes,878419,university
+87a7c553778e4fa8a9e41f73f40482bf,Michelle Mclaughlin,24,single,female,65,134,4,500,other,yes,no,yes,London,98,sugar_intolerance,106765,college
+68a723d731c144998cc18ff5b03c9acd,Richard Bartlett,31,single,male,109,205,10,758,other,yes,no,no,London,16,sugar_intolerance,232549,college
+18c4dd3bc10b4dca807e29194d385d43,Laura Conley,52,divorced,female,128,217,11,3766,vegetarian,no,yes,yes,New York,98,other,130948,college
+6e1f146f9f9d40a4b9fb21e32aa1f0a7,Jonathan Hamilton,57,married,male,46,124,14,1510,carb_rich,yes,yes,no,Delhi,56,heart_disease,333448,university
+918dde5f2ffd446f9f8f9b19221648e9,Jennifer Anderson,46,widowed,female,50,149,20,476,other,yes,yes,yes,Paris,15,other,416539,other
+0d2431c87d564ff0aa9f955369b52f5e,Jesse Guerrero,53,single,male,114,213,18,2548,carb_rich,no,no,yes,New York,82,heart_disease,589004,university
+d1739655a81c44e2ac59cbef597cabb6,Daniel Sherman,57,divorced,male,68,120,22,1929,carb_rich,no,yes,no,Tokyo,67,sugar_intolerance,949749,other
+bf153c75d68a4227b86b3b89afe3fb52,Natasha Wilson,31,single,female,65,208,18,3501,protein_based,yes,no,yes,Paris,64,sugar_intolerance,975753,university
+b1f7b3f7e2c144cab981e785508c9f8e,Christopher Sandoval,22,single, ,127,171,8,1506,other,no,yes,no,London,26,heart_disease,442745,university
+1e2f7fda42764330a1a24eca754eeb44,Richard Woodard,46,divorced,male,65,134,18,514,vegetarian,no,yes,yes,Paris,81,sugar_intolerance,475874,high_school
+3ed674813c19421db8cf44af23e14637,Karen Braun,44,widowed,female,74,496,4,11111,vegetarian,no,no,no,Dubai,52,diabetes,423200,college
+acd518abf01b4caea656ade8c80d46fa,Juan Griffith,28,married,male,126,132,20,300,other,no,yes,no,Paris,53,diabetes,767762,university
+1bf46e5101824b7b90121ec20aac3ada,Tracy Padilla,38,single,female,117,203,17,1218,other,no,yes,no,Delhi,15,heart_disease,66488,other
+4e0e5b9e8a0a4ad1833faf0d010dc9e6,John Ibarra,27,widowed,male,73,209,3,2546,protein_based,yes,no,no,Paris,85,diabetes,893256,university
+354a9eb2b6574b419508becfeb143aeb,Willie Sloan,32,widowed,male,129,180,22,1253,vegetarian,no,yes,yes,New York,64,other,385852,university
+e7ced65e90324ae6ab4b601b2d6e7f31,Melissa Chen,21,married,female,115,124,16,3004,protein_based,yes,yes,yes,Shanghai,32,none,399065,high_school
+f4b5fc5b26ec40529bddabffa93a4163,Jennifer Fuller,55,married, ,125,169,10,1957,carb_rich,no,no,no,Shanghai,54,none,638216,college
+87e750fe04f74fda8098ae26df384400,Jill Ferguson MD,57,married,female,105,175,17,540,protein_based,yes,yes,no,Paris,21,other,708619,high_school
+ae7fbff1378e47ff99a19b806d15bca9,Jonathan Dunn,37,widowed,male,57,175,11,1270,vegetarian,yes,no,yes,Delhi,96,heart_disease,135813,college
+1f0a107848c347378ac484c5c99555f9,Michael Brown,43,widowed,male,105,188,8,1802,other,no,yes,no,Shanghai,9,heart_disease,725363,other
+38ad5868194c4eb093632e747bac5538,Chelsea Curtis,23,divorced,female,51,213,0,2971,protein_based,no,yes,no,New York,10,sugar_intolerance,142395,other
+8352d2486cb44b27ad6280916185227b,Charles Freeman,55,single,male,45,217,15,2523,vegetarian,yes,yes,no,Paris,44,diabetes,260687,university
+c0f492d5208c41ffbba55f9c46b996cd,Michelle Walton,19,single,female,91,163,1,3904,protein_based,yes,yes,yes,London,27,heart_disease,42499,high_school
+6bba0ccf96784988afe76a30e52b79b6,Mr. Brian Ford,21,single,male,71,174,2,1198,protein_based,yes,yes,no,Shanghai,26,none,506050,university
+7f9cdb0d8b134b5d8201bc7666096b77,Kelly Snow,60,single,female,126,215,15,3709,carb_rich,no,yes,no,Paris,95,heart_disease,737823,high_school
+d28d4dcb40dd42f0a27bee3dad809481,Jeffrey Mitchell,16,widowed,male,53,157,3,3975,vegetarian,no,yes,yes,Tokyo,88,heart_disease,761889,high_school
+15c85d99f7fb4ed98c1fbd67f4a8dae4,Randall Sellers,16,widowed,male,126,124,16,1552,vegetarian,yes,yes,no,Paris,7,diabetes,319100,university
+3e4c13f1a3af412195c48e51973f5aac,Ronald West,19,married, ,126,192,23,2975,vegetarian,no,no,no,London,54,heart_disease,736105,high_school
+8d913a1473e34e0dadd506db845486eb,Shirley Johnson,17,single,female,51,215,24,2770,other,no,no,no,New York,50,diabetes,736681,high_school
+6e7d29be14b04404b3683537fd8f5bde,Mary Payne,36,divorced,female,54,125,22,3851,vegetarian,no,yes,no,New York,27,none,884119,college
+c55cd883849b4365bac49d3312ba9409,Matthew Hopkins,49,single,male,77,193,6,1066,other,yes,yes,yes,Paris,5,none,95068,other
+84ae167590c841ff93ea811047b3cd98,Andrea Hawkins,41,single,female,90,170,13,1313,carb_rich,no,yes,no,Tokyo,44,sugar_intolerance,58298,other
+072e44a7622c4fd1b8663d751ccc1c89,William Hill,39,single,male,128,203,23,1043,other,yes,no,yes,Tokyo,81,sugar_intolerance,496106,university
+d259cd04c87d4e30bfa29cc1bb1cfb98,Tara Taylor,54,married,female,87,197,22,1234,carb_rich,yes,no,no,Shanghai,15,none,329568,university
+6902c21c4f2140b4b1c9eca1eb02556f,Benjamin Obrien,51,divorced,male,105,161,20,2705,carb_rich,no,no,no,Shanghai,57,heart_disease,623296,college
+79f9c4dd446a46859c677e221c8e6e3e,Katherine Snyder,30,divorced,female,88,147,15,3979,carb_rich,yes,yes,yes,Paris,56,heart_disease,823943,other
+3ef4989be1d74c6bb9e6f7d839af87ba,Erica Davis,43,single,female,63,161,15,810,other,no,no,yes,London,80,sugar_intolerance,923295,college
+ee121dea12d04f42b5881e8c03e9674f,Kelly Walton,40,divorced,female,125,219,0,3869,carb_rich,no,no,yes,London,46,sugar_intolerance,815128,other
+89a03bfef3394922b17e59010f7d4973,James Moss,57,single,male,126,200,20,3114,protein_based,yes,yes,no,Dubai,56,none,112764,university
+351f9279b74a4a17b57954cd7be70e5f,Amanda Dickson,49,married, ,57,140,14,2167,carb_rich,no,no,yes,New York,34,heart_disease,1222223,college
+e8f78858f8c942c5b67c9f8ecf3d9c4e,Andrew Hernandez,45,divorced,male,106,217,8,2483,protein_based,no,yes,yes,Delhi,23,heart_disease,464481,high_school
+50ed34d336e3436f94bd8467bc4dcef7,Mark Smith,15,widowed, ,99,153,14,2826,other,no,yes,yes,Tokyo,1,sugar_intolerance,174595,university
+09ee9025c89f4a958ba3d6ecd84a9ac9,Patricia Hancock,49,divorced,female,71,165,0,989,other,no,no,yes,New York,51,diabetes,986839,university
+b918e8ce746542e6bea013ff96343aed,Alyssa Wiley,39,married,female,118,142,18,3335,vegetarian,yes,no,yes,New York,81,other,620578,other
+9de9bd2d4e324ee6addabecf099c63d5,Christina Fitzpatrick,57,married,female,76,202,16,289,vegetarian,yes,no,no,Shanghai,45,sugar_intolerance,581185,other
+8d049c5c3ecb4aa68cb5c5bdeb99c0a8,Robert Schultz,37,married,male,100,183,10,2757,carb_rich,yes,no,no,Shanghai,40,none,548457,university
+badca9183e4648868746d3efa7eae752,Cheryl Castillo,23,divorced,female,62,176,9,3541,vegetarian,yes,no,no,London,30,diabetes,904097,high_school
+eea065bf6d344ac1a64e322438f84408,Mariah Clark,54,single,female,51,158,23,3025,other,no,yes,yes,Delhi,45,diabetes,798993,other
+dd972422ea8041c695d0bd74de40ddec,Robert Roberts,15,widowed,male,126,204,3,2623,vegetarian,yes,yes,no,New York,96,diabetes,33801,university
+aac9fb3fcb154060b373290cd923ac56,Robin Glover,57,divorced,female,83,142,13,2351,carb_rich,no,yes,no,London,85,diabetes,995365,high_school
+227fa7e88cf9475ca01d8e4ea85663d1,Sonya Ramirez,27,married,female,75,154,22,1036,carb_rich,no,yes,no,Tokyo,92,none,43718,high_school
+bde740a8968645a8a18fc0c585a60918,Mrs. Lisa Nelson DDS,44,divorced,female,83,188,15,561,vegetarian,no,yes,yes,Tokyo,21,sugar_intolerance,524152,university
+100277c0d59e400d81c514d0f69714e9,Helen Foster,46,married,female,103,206,6,102,protein_based,yes,yes,yes,Paris,42,other,712428,other
+32f58d36097747508b502fb471567e00,Linda Bryant,37,divorced,female,114,211,14,73,protein_based,no,yes,yes,Delhi,60,heart_disease,764398,other
+aee6dea518134d1caad4e604e66c70d5,Erin Gentry,35,widowed, ,109,165,17,1115,other,no,no,yes,London,43,heart_disease,483536,high_school
+4a2be925fb7e4dcb8ffd10c9de8562d0,Kelly Mills,27,single,female,119,217,13,3614,other,no,no,yes,Delhi,39,sugar_intolerance,841053,university
+8c59849c7b9d426b8eb277468ffa7176,Sarah Parsons,41,single,female,104,158,20,1554,carb_rich,no,no,yes,Shanghai,21,other,872749,other
+551e64dd9b21429a9a01c74382dcdd2d,Lori Lang,30,married,female,117,185,6,3546,other,no,no,yes,Paris,51,other,289265,high_school
+e7c62b17cc804990ba13efc22127e6ec,George Cox,57,single,male,129,218,14,2347,vegetarian,no,no,yes,London,89,sugar_intolerance,377300,other
+a41f3e8181a34475a74df69ad1090307,Tiffany Beard,39,married, ,66,195,1,876,protein_based,no,yes,no,Dubai,15,heart_disease,891243,college
+d3bc74d73b5d43c895180a6b5a3e9e1c,Samantha Quinn,54,divorced,female,107,122,21,2760,other,no,no,no,Delhi,40,none,960181,college
+3b5191d123434541b414d4ef48de2d9e,Rachel Moore,43,divorced,female,77,126,8,1006,protein_based,no,no,yes,London,83,sugar_intolerance,951656,college
+97eff62e43524e918f5a76b12a27dbd8,Todd Bryant,45,divorced,male,45,185,1,2937,protein_based,no,yes,no,New York,29,diabetes,917021,university
+49ebf400cc414f42868e21e5312ba9bd,Linda Miller,42,divorced,female,60,214,14,3522,other,no,no,yes,London,75,heart_disease,33566,university
+b986ca58c48e45f6afea6f3138f07250,Ricky Garcia,57,divorced,male,56,209,9,1459,carb_rich,yes,yes,yes,Shanghai,75,sugar_intolerance,532653,university
+9c3b28332b9e4ed6869b21e96149d596,Dr. Brooke Adams,24,married,female,122,215,3,101,other,no,no,no,Dubai,66,other,546461,other
+da309af9338a400090b48f7550d79f0b,Rebecca Cantrell,26,widowed,female,113,184,24,43,carb_rich,yes,yes,yes,Paris,63,none,4268,high_school
+b4e54f0465a9472892209163734ebcc5,Jodi Mcintosh,20,married,female,115,171,24,3858,carb_rich,yes,no,yes,Delhi,56,none,140179,high_school
+209d7f615477443cbf84916eff4e2e38,Daniel Franklin,15,married,male,52,186,9,2036,carb_rich,no,no,no,Tokyo,12,diabetes,682412,college
+f25a893fced0496bae982108226610a3,Kevin Norman,47,married,male,127,163,4,2375,other,yes,yes,yes,Delhi,46,diabetes,786114,university
+e4f7f6461f544e25a17679dde75a65ae,Veronica Lucas,54,widowed,female,126,211,2,1099,protein_based,no,no,yes,Tokyo,99,diabetes,899339,other
+b52f632e53c54c10a1e62aaf99545118,Jose Johnson,59,widowed,male,120,154,9,806,vegetarian,no,yes,no,London,34,none,782223,college
+aa8dc00d672a42b1a2b2d390e03535e6,Jon Price,41,single,male,63,174,15,78,carb_rich,yes,no,no,Tokyo,29,none,794861,university
+30a4cddc17134312b51c640e8ff6091f,Kimberly Martin,33,divorced,female,109,133,0,3274,carb_rich,no,yes,yes,Delhi,73,other,329820,high_school
+17d5a9ccece0422ab0b3d92bbe67689d,Brandon Macias,56,divorced,male,130,200,21,3475,protein_based,yes,no,no,London,91,heart_disease,243166,university
+ddc175fe62a742e6b13a2b94903533a1,Michael Williamson,31,married,male,54,122,17,2833,vegetarian,no,no,yes,Delhi,14,diabetes,259483,university
+c18e49f2a779473398669816936418a6,Vanessa King,36,single, ,81,188,0,3732,protein_based,yes,no,yes,Dubai,31,other,795854,college
+31a548b98980453b8c88f6ad980d423c,Billy Marks,19,married,male,85,212,5,1634,protein_based,no,no,yes,Dubai,4,heart_disease,385895,college
+61bfcf45d1744e5889bb400b69c57746,Jasmine Bell,51,divorced,female,52,188,16,1092,vegetarian,yes,yes,yes,New York,93,diabetes,367032,high_school
+16cb14677a2b46c68206dcac0fd5e84a,Mark Dickerson,38,divorced,male,130,162,3,414,vegetarian,yes,yes,no,New York,77,sugar_intolerance,305619,college
+2d6ca5b4de214fa7a3f264719125e620,Rodney Hobbs,34,single,male,51,166,23,3589,other,no,no,yes,Shanghai,99,heart_disease,516788,other
+33403dcde654437a96d0323a7132eea8,David Mcdowell,15,divorced,male,81,219,18,1208,protein_based,yes,no,no,London,56,sugar_intolerance,611492,other
+0dc9b5fa6bd44105909af56ef25e6f88,Catherine Watson,34,widowed,female,66,158,7,1322,other,yes,yes,no,New York,75,sugar_intolerance,500173,university
+cd15785032d949718bdedfd4c7a3836d,Ian Young,52,divorced,male,50,142,24,373,vegetarian,yes,no,yes,Tokyo,6,other,993469,college
+f6c46486be094d1585df79d53ecfc30f,Lindsey Rowe,25,widowed,female,84,159,4,1153,protein_based,no,no,no,Delhi,14,sugar_intolerance,864471,university
+778f1c3cb52849f388bf434637ccb75c,William Lee,16,single,male,71,209,24,1987,other,no,yes,yes,Delhi,23,other,207303,other
+5bdf7a31960d41de9d7466de8faa9bef,Timothy Jackson,27,divorced,male,120,196,22,2821,protein_based,yes,no,no,Paris,87,none,108961,college
+b061f1e7592447cfb173bfeeca83615c,Dustin Kane,48,single,male,110,193,24,2804,other,no,no,no,Tokyo,37,other,56529,university
+15d19108d1064b329380bb18070b37f1,David Ramirez,55,married,male,51,139,4,3444,other,yes,yes,no,London,30,diabetes,400731,college
+5536225aab774ade9872328ed6395bdc,John Barnes,54,widowed, ,92,136,15,3582,vegetarian,yes,yes,no,Dubai,15,heart_disease,333239,college
+2b6b4333665b4926803f44d0dff2393d,Carolyn Sullivan,51,divorced,female,96,141,9,2570,vegetarian,yes,yes,no,Dubai,70,other,838966,other
+ca2f97fe47014c0996800c42573603fe,Michael Silva,26,divorced, ,65,183,3,1635,protein_based,yes,yes,no,London,0,sugar_intolerance,7239,other
+f554a74b317f4536aec5bfe3e929740b,Eugene Garrett,34,widowed,male,112,169,0,681,other,no,yes,yes,Delhi,71,none,605557,college
+2d86532d653648269b4bfcbf9756efdf,Katherine Williams,31,divorced, ,130,121,13,1333,other,no,yes,no,Tokyo,17,diabetes,535454,college
+8fd185b4bd6f483aa02a1a6930dde5f6,Robert Vazquez,40,single,male,51,153,3,3218,protein_based,yes,yes,no,Tokyo,23,heart_disease,906438,other
+7f3b3ba7d5784f23b1e0e4ae71626a3f,Jessica Montoya,47,divorced,female,93,208,2,261,carb_rich,yes,yes,no,Paris,93,diabetes,572996,university
+91ce4bbbff9b4cda9c7c62a16cf18a52,David Jones DDS,18,single,male,89,204,6,1363,protein_based,yes,yes,yes,Shanghai,13,heart_disease,593047,other
+355e76c75d9d4862a09d1700588add0d,David Hunt,31,married,male,51,183,21,3373,other,yes,no,no,Tokyo,49,heart_disease,331995,other
+072abd2ee6554e4e92e9575520cc1721,Angie Scott,60,divorced, ,109,173,20,2262,vegetarian,yes,no,no,Paris,2,other,376086,college
+e9f6d75496dd4c8fa6dd00180092940c,Ryan Scott,31,divorced,male,80,172,11,2682,vegetarian,no,yes,no,Shanghai,15,none,849784,other
+848d8eba7f574244bbe02505a1851b1c,Olivia Collier,60,widowed,female,80,120,6,546,other,no,yes,yes,London,98,heart_disease,450683,college
+a877ef2b812a4fa08efd54e42446a1e0,Gary Ballard,55,widowed,male,76,170,18,2749,protein_based,no,no,no,Tokyo,97,none,284604,high_school
+b09ccd4b31504c9da19b94b681411e75,Patricia Hooper,51,divorced,female,61,175,8,2996,other,no,yes,yes,Shanghai,44,diabetes,211640,university
+4b80a2e9d3c8426d8c4816a14aa4760c,Amy Robinson,54,divorced,female,73,143,3,579,protein_based,yes,no,yes,London,91,none,375628,high_school
+109061e946594656889d6e7a46f95b9b,Jonathan Jones,44,widowed,male,118,213,4,3890,protein_based,yes,no,yes,Delhi,56,other,468745,high_school
+069c74872d9c4480b8142c2f166cdc9e,Erin Khan,17,divorced,female,49,186,10,3869,carb_rich,yes,no,no,Tokyo,42,none,858020,university
+bbe90d14b1df4d12b7716e3df404af98,Sherri Miller,22,divorced,female,123,198,16,3993,protein_based,yes,no,yes,London,94,diabetes,260729,other
+fc48a3106c864133913eb7e1d362d4af,Marcus Jones,29,single,male,63,218,8,3219,carb_rich,yes,no,no,Dubai,76,sugar_intolerance,727999,college
+a412a025e72a4bf7b77bcccebb75d3bc,Amber Murray,27,widowed,female,55,171,0,3164,vegetarian,yes,no,no,London,28,heart_disease,749086,other
+b0aab789c83345f2ba1285918b384d6c,Melanie Hawkins,36,married,female,99,139,19,718,protein_based,no,yes,yes,Tokyo,22,other,183889,other
+d60a20d588ce4d519cb8fc09fa54f3e8,Justin Browning,30,widowed,male,45,198,21,493,protein_based,yes,yes,no,Paris,6,other,384792,other
+fd1cc40ee02a4e39bd7846d3ea604002,Benjamin Hall,17,married,male,75,212,21,2132,carb_rich,no,no,yes,London,80,sugar_intolerance,999007,high_school
+5d2a9c3e97794bc49904182fa85aa8c7,Jessica Washington,54,divorced, ,66,213,14,3894,other,no,no,no,Shanghai,27,none,176389,other
+169c781d33cf46209e410e65ff4f7ee2,Dennis Rowland,34,single,male,88,212,7,2158,carb_rich,yes,no,yes,Tokyo,83,other,715592,college
+3b8b8518632b4b2a94ddbbf4ca9ed459,Peter Guzman,53,widowed,male,75,211,15,77,protein_based,no,no,yes,Delhi,15,heart_disease,242244,university
+ffb0ff2107c949b08062d591cff5e987,Pamela Anderson,42,single,female,77,142,19,3158,vegetarian,yes,yes,yes,Delhi,43,heart_disease,22685,high_school
+2aecaee13781416ca9539988d44544f5,Amanda Miller DDS,58,widowed,female,126,173,11,1222,other,no,no,no,Tokyo,47,none,662946,high_school
+35fadb21092b441e9d4c4a2b0a5a7937,Deanna Reyes,17,married,female,121,169,5,504,protein_based,no,no,no,Tokyo,65,none,92678,other
+b59ef76c24bc4a0bbc577189917763e7,Amy Johnson,34,single, ,107,192,8,522,vegetarian,yes,no,no,Shanghai,52,sugar_intolerance,763311,high_school
+de56462923f14dfe84406f9341162346,Antonio Jones,44,single,male,58,177,19,1388,other,yes,yes,no,New York,44,none,188097,other
+478b34585bd145e39eb79cfc4c5a179f,David Anderson,42,divorced,male,51,134,1,1488,other,yes,yes,no,Shanghai,100,diabetes,53977,other
+017d8cb341a04e1fb40cd01ac69a1eac,Susan Mclaughlin,51,widowed,female,74,144,16,183,carb_rich,no,yes,no,Dubai,47,other,937665,other
+408110158dc04062ae5101a21629f744,Shelley Anderson,28,widowed, ,50,170,18,2899,other,yes,yes,yes,Delhi,93,other,249016,college
+46c530f93a5049a796fd581980cc4f34,Stephen Watson,28,single,male,63,126,20,654,carb_rich,no,no,yes,New York,6,diabetes,517130,college
+f790a655d5e348b99a4225d8f199d7cc,Joe Smith,16,single,male,74,210,2,3459,other,no,yes,yes,Tokyo,51,diabetes,428532,university
+116d2c402cb34c009e914e03c178969d,Janice Gillespie,26,single, ,129,140,5,1537,protein_based,no,no,no,Delhi,55,sugar_intolerance,378653,other
+25724e2e8e87474e8bef79b7f0c8665f,Diane Parks,19,widowed,female,87,218,20,625,protein_based,yes,yes,yes,Dubai,96,other,316408,university
+4178a2a4d13b47568ead740d7746031e,Diana Sparks,33,married,female,49,185,9,1760,protein_based,yes,yes,no,Dubai,50,sugar_intolerance,183160,other
+db1c47d51666410a9aab1eb27abeedc2,Jennifer Durham,15,married,female,64,204,10,3703,other,yes,yes,no,Dubai,18,other,305529,university
+b30a53f0c01c44728708d984000cc6bc,Tracey Wheeler,45,married, ,91,138,8,961,protein_based,no,no,no,Paris,41,sugar_intolerance,519365,university
+b8e41db5688645e3b0680f2f0fcda1bb,Stephanie Gould,39,married,female,101,173,12,3070,carb_rich,yes,no,no,Tokyo,55,sugar_intolerance,946091,other
+65cc9baa1fca475b842e4aeea3887543,Daniel Bryant,36,married,male,84,153,17,3789,other,yes,no,no,Paris,14,none,310746,high_school
+53c755c8eb264f2cb39991cdf5be18fc,John Mcgee,60,married,male,64,187,8,648,protein_based,yes,yes,yes,Delhi,90,none,234788,other
+89cb18cbe43e4680b99f23b6e2d20b60,James Porter,29,married,male,69,157,5,2286,other,no,no,no,Shanghai,88,none,870666,high_school
+f7ebc31c0b244469a70c9fc56bd29e68,Samantha Walker,43,divorced,female,109,214,12,2334,carb_rich,yes,yes,yes,Delhi,72,none,931619,other
+1ee2cb0dc5104e278770936db0c89337,Louis Williams,34,single,male,109,155,13,2910,carb_rich,no,yes,no,Shanghai,68,sugar_intolerance,157436,other
+91e9a1468f874856ad285b7763807fd3,Nicole Schneider,22,widowed,female,120,217,14,3146,carb_rich,no,yes,no,Delhi,47,sugar_intolerance,309766,college
+58e31eece73f4649841e4b1f569f2ba4,Jesse White,15,single,male,96,141,23,217,protein_based,yes,no,no,Tokyo,82,other,103736,high_school
+1a8611464b76471b978c080e5c6b6e7b,Sydney Silva,19,divorced,female,109,182,17,1217,carb_rich,no,yes,yes,New York,90,other,666084,high_school
+e4d24428ce514622a2c20dccaa8cde52,Robert Everett,23,widowed,male,49,180,17,2379,other,no,no,no,Tokyo,65,diabetes,846105,university
+aa0a0bd6d81f46b5aa830511f0451f12,Jeffrey Scott,27,married,male,130,188,21,2368,protein_based,yes,no,no,Dubai,67,diabetes,614044,high_school
+1ec0283a492d45418e2a2fc086cb2ee8,Kathleen Mason MD,32,married,female,91,189,6,3284,protein_based,no,no,no,Tokyo,87,none,858697,university
+03c612bde3a2432fbb0023fd80e12df8,Zachary Miller,19,widowed, ,65,135,11,974,protein_based,yes,no,no,New York,56,diabetes,727592,college
+5ae975898db743c08634dd4efafb7fa2,Eduardo Rodriguez,41,widowed,male,65,206,21,3684,carb_rich,no,yes,no,Tokyo,89,other,530540,other
+2f43d947196c4e1f9459d21db49af49b,John Becker,22,divorced,male,120,131,5,720,carb_rich,no,yes,no,Delhi,13,other,510774,other
+8d57896413564e5289fad773ca85d884,Angela Sims,54,married,female,50,168,18,252,carb_rich,yes,yes,no,Paris,32,other,448432,university
+327ac3185ca243389cd6c1b9c16001f9,Karen Wilson,26,divorced,female,73,122,17,754,other,yes,yes,yes,Paris,18,heart_disease,507482,other
+b483c170638343569cb9010df4f3eba0,Tammy Brown,38,divorced,female,120,152,14,3786,protein_based,yes,yes,yes,Tokyo,20,diabetes,863773,high_school
+eb9898f34e8441a8800972185bea6dba,Paul Moore,20,married,male,116,175,6,426,other,no,yes,no,London,53,none,248186,university
+9750bcdb6de14299a44e00e26f05f11e,Norma Thompson,57,married,female,52,154,21,3101,vegetarian,yes,yes,no,Tokyo,67,none,227114,university
+85561652edfe43dfada876d695e06a89,Raymond Mendoza,52,married,male,130,161,23,2516,carb_rich,yes,yes,no,Shanghai,38,sugar_intolerance,640848,high_school
+a0c5db7b09aa4ab298e959768240f40e,Bruce Phelps,36,single, ,75,149,6,3409,other,no,no,no,Delhi,48,heart_disease,82185,university
+16b44c8fa5754ae59006410a9274e8fa,Brandon Graham DDS,19,divorced, ,126,125,21,2629,protein_based,no,no,yes,New York,29,none,48700,university
+e6fe671ee46b4e199482f7ea03c19bc0,Debra Jones,29,single,female,53,201,9,95,carb_rich,no,yes,no,Shanghai,25,other,957078,college
+40c98b8084a44315857953e36d02fdb0,Holly Gonzalez,40,widowed,female,49,126,15,335,other,yes,yes,no,Delhi,4,diabetes,479840,college
+692b7fe7a5c14a35b2ab027beecc1cdd,Elizabeth Ramos PhD,59,divorced,female,97,208,5,2350,other,no,no,yes,London,44,none,660364,university
+e5edbf2c9a75421791549cdfe20fd078,Melissa Hull,28,single,female,116,133,18,3505,other,no,yes,no,Tokyo,4,none,207055,other
+58d56d2023ff4604af2a14db5a922fc6,Melissa Bond,33,widowed,female,103,217,20,72,other,yes,no,no,Tokyo,76,diabetes,46193,college
+d693e54f1dad402b921f862baf09b613,Daniel Kline,60,married,male,73,220,19,3582,carb_rich,yes,yes,yes,Delhi,4,diabetes,398942,college
+c9da81fbdca142468c3b300723f9ed78,Nicole Gray,41,divorced,female,82,212,24,2260,other,no,no,yes,Shanghai,3,diabetes,757597,university
+fd1b9dee130e4c52a2e8b55c7e9eec17,Alicia Richard,56,divorced,female,69,173,0,1601,other,no,yes,yes,Paris,80,sugar_intolerance,673412,college
+55ca08bb91ae4cd6a14bd80cffb3c6ad,Tony Riggs,43,single,male,49,182,5,1968,carb_rich,yes,yes,yes,Shanghai,96,diabetes,617469,college
+bd10fafefb1a45f5abca42a5af4f9d5e,Jacob Williamson,26,divorced,male,49,217,3,1407,vegetarian,no,no,yes,Paris,98,none,639873,college
+4fa9a05babe04439bcf38ba39f453b69,Brianna Rodriguez,26,single,female,92,220,12,3941,other,yes,yes,yes,New York,36,heart_disease,151299,university
+efa8961f1d0d480e9b68f090671f3310,Andrew White,49,married,male,91,135,0,2778,vegetarian,no,no,no,Tokyo,12,sugar_intolerance,980172,high_school
+ac5a403b34514d52b55adca77db839e7,Douglas Ford,47,married,male,70,123,23,3493,carb_rich,no,yes,yes,London,99,other,844474,other
+70338922e3164992910cfd35dd4cbb8e,Margaret Williams,31,single,female,103,199,14,3671,protein_based,yes,no,no,Dubai,24,sugar_intolerance,703637,other
+0ee8ec725e5043c7a36e178e1132c48f,Joshua Harvey,42,married,male,113,189,15,2827,other,yes,yes,yes,New York,8,sugar_intolerance,480487,high_school
+bf0169c1a06240ef9450216f23b1b5e2,Wesley Hicks,60,widowed,male,114,122,5,2814,carb_rich,no,no,no,Tokyo,54,other,700537,university
+aaec07161e1948ee9f4e722986e5baa3,Patrick Hill,32,divorced,male,56,152,4,735,protein_based,no,no,no,Paris,60,sugar_intolerance,754050,university
+cb572f4f031e4c11b622dc10e262fb5d,Beth Clarke,42,married,female,74,127,9,788,protein_based,yes,yes,yes,Tokyo,19,heart_disease,951372,college
+39ba2aea08fc424faede5f5e23ef8ab0,Cheryl Torres,49,widowed,female,78,150,13,3091,protein_based,yes,no,yes,Delhi,61,none,92714,high_school
+97d66fd5e5cd4585afdc42ae74bcdab5,Amy Stewart,35,widowed,female,57,160,24,2305,protein_based,no,yes,yes,Tokyo,97,heart_disease,897756,university
+a8c1096419ab49aebc7921f497aeaa7b,Kelly Gonzales,24,divorced,female,95,137,8,1654,other,no,yes,no,Tokyo,76,sugar_intolerance,723443,other
+36181c4d43e44c6b97e1fa1fd9c4c3dd,Audrey Parker,17,widowed,female,115,211,24,1125,other,no,yes,yes,Paris,0,heart_disease,855897,university
+e4b7c8cb88c34d4e9d2d4bba19569c94,Wendy Fowler,57,divorced,female,46,178,20,3854,protein_based,yes,yes,yes,Tokyo,33,diabetes,937716,college
+f07ea6d09c3842fa97299ec7e8e96f89,James Weaver,28,divorced,male,60,194,2,2742,other,no,yes,yes,Paris,75,diabetes,665537,college
+c7b09182904541ba95d72aaa2a2dd8ff,Ruben Cooper,41,single,male,83,207,0,2437,protein_based,yes,yes,no,Delhi,34,diabetes,179498,high_school
+5cec5838595f420ca34f874f71fd2042,Elizabeth Cole,21,single,female,110,145,22,3190,other,no,yes,no,Delhi,84,other,913552,high_school
+c4198abf508142328223d662f56699a6,Christopher Bell,15,divorced, ,86,149,18,488,other,no,yes,yes,Paris,16,none,103642,university
+0576a75c07ca4651948738c8ea6b7fbc,Christina Rodriguez,23,divorced,female,57,194,13,583,protein_based,yes,yes,yes,Delhi,62,sugar_intolerance,741970,university
+dcb6d02049d6477f947173a2dc8844ac,April Hawkins,45,divorced,female,114,206,23,3340,other,no,no,yes,Paris,8,diabetes,142012,high_school
+80a531f783c642fc84adae625981e270,Michael Byrd,22,single,male,98,121,5,1366,protein_based,yes,yes,yes,Paris,73,heart_disease,224849,university
+0e55653d61fb43c881d1517e7ab42bc2,Monica Barrett,60,divorced,female,53,129,7,569,protein_based,yes,no,no,London,13,sugar_intolerance,747724,college
+0bc433787a91460e96a29a9d92ea960f,Sonia Padilla,51,widowed,female,91,217,24,3622,vegetarian,no,yes,yes,London,8,sugar_intolerance,749063,university
+c2cbea77aabb48f9b47246b4c8efc669,Taylor Payne,38,single,female,62,188,17,3745,vegetarian,yes,yes,yes,Paris,93,sugar_intolerance,964481,other
+c7f34015a811438585d68abcdf8e9ce0,Katherine Moore,46,divorced,female,130,121,16,3724,vegetarian,no,yes,no,Tokyo,89,diabetes,963716,high_school
+f030589caa224893b93483a2be1f05ab,Katherine Hall,28,divorced,female,57,123,1,3427,vegetarian,no,no,yes,Tokyo,70,heart_disease,225883,college
+09c92ec66da44fd5a5dc9779cb2db8f1,Anthony Frey,30,married, ,122,189,9,2176,vegetarian,yes,yes,no,London,77,none,210232,college
+e999b203ee2a48ec93e301e8989a82ed,Amber Fernandez,17,divorced,female,69,216,21,1254,vegetarian,no,yes,yes,London,69,sugar_intolerance,710509,university
+e91580e4521a4686b8569547e449d44b,Martha Leon,27,married,female,90,205,17,1939,carb_rich,no,no,yes,Tokyo,64,heart_disease,996788,college
+3604a355601f49f095e8ffce9c169799,Timothy Chen,50,divorced, ,54,150,1,654,carb_rich,yes,no,no,Tokyo,45,heart_disease,405213,college
+fe77904e4e104283b26cbc7684865275,Tammy Martin,40,single,female,88,171,24,136,vegetarian,yes,yes,yes,New York,72,heart_disease,107910,other
+5ede3876fbb2461db32498129e24900f,Michael Hahn,43,married,male,120,125,4,743,vegetarian,no,no,yes,Dubai,74,none,521404,other
+7f559bcecc4e447e9d670225525c7872,Mark Vasquez,56,widowed,male,75,188,17,1032,protein_based,yes,no,no,New York,95,heart_disease,148426,college
+7d865bf3b2ac425a8118d12ef3cac818,Emily Johnson,26,married,female,63,169,4,3516,protein_based,no,yes,yes,Paris,32,heart_disease,948360,university
+31cb33b21a9c4f89ab3e3ff2479cb940,Christopher Strickland,17,divorced,male,54,203,23,1734,carb_rich,no,yes,no,New York,0,none,962666,high_school
+ff1354726c084555aecc3fc961873f3f,Patricia Butler,47,divorced,female,78,182,23,2548,protein_based,yes,yes,yes,Tokyo,20,heart_disease,99568,high_school
+49af8a6f9e8046ff9447f158aa3ca660,Sonya Coleman,57,married,female,91,162,2,691,other,yes,no,no,Dubai,61,other,588491,college
+4206cc200c614900bf94187a90e86eec,Kenneth Tate,27,widowed,male,91,219,12,70,protein_based,no,no,yes,Delhi,52,sugar_intolerance,535041,university
+a96a5325134b4727a9c5a753d12a2dea,Morgan Aguilar,28,married,female,93,205,18,1531,other,no,yes,no,Paris,49,sugar_intolerance,174027,university
+5a0d9d6307a3410097bab4080c9b89fe,April Mcdonald,20,divorced,female,92,123,18,2500,protein_based,yes,yes,yes,London,69,other,519569,college
+adf839df02474c5eae7637ce5eb7da49,Wendy Hinton,50,single,female,56,125,9,3308,other,yes,yes,no,Shanghai,57,other,441692,university
+51b1638cf2ef42d9bec5e4ac65a9cb58,Marc Sutton,48,married,male,126,128,12,1609,vegetarian,no,yes,no,London,18,diabetes,604295,college
+23f595188e504008af15dfa15542e2b2,Rodney Sims,48,married, ,62,220,21,1701,vegetarian,no,no,yes,London,43,diabetes,477902,high_school
+fc37c86f79e341a0ab83bbc2d308b9e1,Seth Brown,43,single,male,83,127,22,2420,other,no,yes,no,London,13,sugar_intolerance,377340,college
+8d387119957d43648ad0c964fec62399,Thomas Cruz,20,married,male,85,136,7,3246,vegetarian,no,no,no,Dubai,83,heart_disease,811792,college
+e15ac0201ffe4be0a16a62131b6c1320,Samantha Barnett,31,divorced,female,110,144,5,2667,carb_rich,yes,no,yes,Dubai,55,other,550432,college
+905ba603a0e34ecbb1f05a072dcc1b08,Ashley Vargas,15,widowed,female,101,193,14,1050,other,no,yes,yes,Delhi,33,other,978140,other
+1ca98b50525b45b88d99dd5b5d41926a,Monique Jones,23,married,female,93,162,9,1671,other,no,yes,yes,London,98,other,145779,university
+09bcc6d9c3594e5eb2bd20eefb0d2390,Ricardo Mayo,21,widowed,male,58,209,20,3125,carb_rich,yes,yes,no,Tokyo,84,none,317743,university
+d4f77268e5d54e1db195920ba4270169,Angela Medina,25,divorced,female,112,129,0,2223,other,yes,yes,no,Delhi,42,other,912452,college
+df578b4f477e49c6988d98dcbf4b7a68,Cynthia Carter,58,single,female,64,186,8,1509,carb_rich,no,yes,yes,Dubai,99,sugar_intolerance,663432,other
+fa6c2db6c69a4a5497ba959ed2201713,Stacie Huang,59,single,female,128,152,2,2764,other,yes,no,yes,Paris,55,diabetes,949759,college
+b0c0b20d87c44a38bcf3f4cffa64925c,Makayla Dunlap,29,married,female,68,125,23,1692,vegetarian,yes,yes,no,Paris,23,heart_disease,576587,other
+e94a31688b5d4cfbab6e3973932c132f,Jennifer Bernard,50,married,female,58,199,24,1003,protein_based,yes,yes,no,New York,65,diabetes,690958,high_school
+f586b833bb2548d88faf3832c1e70782,Michele Scott,40,widowed,female,122,217,13,1199,carb_rich,yes,yes,no,Shanghai,92,sugar_intolerance,906977,high_school
+1e5165423f0b4c9c9cb7b251067217af,William Nichols,45,single, ,65,122,5,2380,vegetarian,yes,yes,no,Tokyo,29,sugar_intolerance,103011,other
+46db349d2c5249bdbb415dc4abb6c400,Sandra Whitehead,60,single,female,124,181,12,2220,vegetarian,yes,yes,yes,Tokyo,71,diabetes,911449,university
+4ff116ac1b4e4ec2a2e25be977ebd26b,Michael Harris,15,divorced,male,130,161,13,1165,vegetarian,yes,no,no,Shanghai,92,heart_disease,475561,other
+6a675cc0f74b463f966f48de211659a9,Jeffrey Gill,55,divorced,male,95,215,8,2321,other,no,no,no,New York,56,diabetes,505375,university
+53982798e2924cf592b1f516d9a805ad,Dorothy Delgado,36,married,female,76,176,15,906,vegetarian,yes,yes,no,Shanghai,3,diabetes,196509,university
+27d42ac9471149e7b50d462ebfff32b5,Brad Duncan MD,60,single,male,101,206,16,2924,carb_rich,no,yes,no,Tokyo,9,other,479172,other
+aa0050dde32d462195e112ba8ecded0c,Tyler Barnes,35,divorced,male,86,156,11,2423,carb_rich,yes,no,no,London,61,heart_disease,719543,high_school
+55797d55c9774070aad451ec4ff49bb1,Joseph Dean,43,divorced, ,76,196,16,3706,protein_based,no,no,yes,Paris,57,heart_disease,354173,college
+3d65fb3f766945ab9b729066b84fec6f,Sandy King,53,single,female,61,143,10,140,vegetarian,yes,yes,yes,New York,29,sugar_intolerance,56843,college
+0dcc688dd4c8481d94e61439b49c506b,Karen Perry,52,single,female,67,182,3,1692,carb_rich,no,no,yes,Dubai,37,other,415569,other
+d7277852d7494f099ed31dc519407218,Ronald Walker,53,single,male,99,146,7,3804,other,no,yes,no,Shanghai,8,sugar_intolerance,694725,high_school
+a0603cb4051d40348c4991037b060e8c,Kimberly Mason,48,married,female,100,218,9,2848,protein_based,no,yes,yes,Tokyo,28,diabetes,412627,college
+7cf9a900ae3648ddaef0d0bec46661a4,Natalie Reid,20,married,female,123,158,14,3982,other,yes,yes,yes,New York,79,heart_disease,411241,university
+615e0f9058c94bd792921c4130e427d4,Omar Davis,28,married,male,69,187,13,2451,protein_based,yes,yes,yes,New York,6,sugar_intolerance,891989,high_school
+d4ecd23f373c4dbaa5b49e6794c13cea,Shelby Schmidt,40,widowed,female,119,151,15,465,carb_rich,yes,no,no,Shanghai,100,other,341836,high_school
+af15aecee040426ebea40c6e2cc9064e,Courtney Woodard,16,married,female,74,182,22,561,vegetarian,yes,no,yes,Paris,27,none,447416,university
+8a21a4e2316540c88cdebc76d2262c73,Mark Wise,20,widowed,male,87,171,19,3018,protein_based,no,no,no,Tokyo,56,other,670255,college
+d2f217df0ba745ddb4c7387936a1d846,Vanessa Murphy,39,married, ,50,145,4,2322,other,no,no,yes,London,35,diabetes,727743,university
+d7903e4c1abc453e8294884015c7d357,Ashley Phillips,30,married,female,67,202,19,8,other,no,yes,yes,Tokyo,53,other,634586,university
+f30d9410ca4d41e29bdd26562f20d61f,Mark Graves,21,divorced,male,54,144,2,3513,carb_rich,no,no,no,Paris,100,heart_disease,107498,college
+1ddebdb789a042c394a4224fd0a3d88e,Jennifer Cline,50,divorced,female,89,215,1,2899,other,no,yes,no,Shanghai,85,none,429519,university
+ad314e047a44400993eca76444ddb232,Christopher Becker,26,widowed,male,90,155,7,742,other,yes,yes,no,New York,84,heart_disease,887661,other
+5abf1276754d40dda6910120d02f1225,Terry James,38,single,male,45,134,15,421,carb_rich,yes,no,yes,Paris,44,other,929639,college
+7b11e2f989934411885ffeaa001e2630,Carrie Cochran,50,widowed,female,86,158,21,2986,protein_based,no,yes,no,Dubai,11,other,556152,high_school
+10dfae47e6b3462c8362783d003dbd95,Ryan Melton,33,divorced, ,105,135,23,211,other,no,yes,no,Tokyo,97,none,406116,college
+be61cb657a694b1da1e3e1f2bbfa9d18,Matthew Patterson,48,divorced,male,113,166,3,1664,other,no,yes,no,Delhi,100,none,258,high_school
+d073bd072481464d8e10a321862842bb,Elizabeth Edwards,26,married, ,65,161,4,2544,protein_based,yes,no,yes,Dubai,71,diabetes,177056,university
+3b8adad7001a40aea8455bc4dce3ffa2,Lisa Silva,47,married,female,62,188,19,1076,vegetarian,yes,no,no,New York,0,sugar_intolerance,247659,other
+15d50bfa890d4666b1ad6f132c26772b,Janet Quinn,45,single,female,59,171,4,1257,carb_rich,no,no,no,Delhi,93,diabetes,769785,university
+f696e1e23ed8438bb8c0dd094b35f2ed,Timothy Lamb,32,widowed,male,69,127,24,857,carb_rich,yes,yes,no,Paris,72,other,249231,college
+22c71a7b295b4fcab57bd287baac5ec3,Michael Smith DVM,23,married,male,79,168,12,986,carb_rich,yes,no,no,Shanghai,57,sugar_intolerance,711874,other
+1ef6ce36257949be943575718598a7f1,Christine Miller,22,widowed,female,88,201,24,2978,other,no,yes,no,New York,10,heart_disease,87981,college
+9115bf390496483e8039234bb3b6e120,Gerald Gray,15,divorced,male,106,157,23,3694,protein_based,yes,no,yes,Delhi,13,heart_disease,852876,college
+0106721775ff49f1aabf66bd0f890f28,Brittany Ballard,45,divorced,female,71,215,20,2102,other,no,no,no,Paris,35,other,144290,college
+44603bb663df407bbda96ccc028b41fd,Brian Fields,33,married,male,77,144,17,3905,protein_based,yes,yes,yes,Delhi,84,heart_disease,843837,other
+4bfa4eea9e93498c967b80b5a3c510e1,Jennifer Morris,55,single,female,87,208,17,52,carb_rich,yes,no,yes,Paris,95,none,689537,high_school
+f0c0fa94a1ac4703a8334a650c690ab6,Brian Cherry,39,divorced,male,123,120,1,3319,vegetarian,yes,yes,no,Paris,49,other,9482,college
+bc08920eb4444869b2a1315bd7ad1aa0,Jessica Murray,51,single,female,79,186,20,2208,carb_rich,yes,no,yes,Delhi,71,other,316615,university
+6796bcbf05544349839440201e65be76,John Aguilar,37,single, ,92,168,20,1226,carb_rich,no,yes,no,London,1,none,412567,high_school
+9f7cfac859fb411688341acb128cff32,Kayla Estrada,59,married,female,86,141,17,2364,other,no,no,yes,Shanghai,16,heart_disease,319328,other
+4ed770f527674159bf17c52f793bacd6,Alexis Carey,18,married,female,114,161,11,1137,protein_based,yes,no,no,Tokyo,14,heart_disease,665868,college
+783aeea5de2740348ad12cf094f4f325,Kelsey Knight,34,widowed,female,112,172,10,2224,protein_based,yes,no,no,London,75,other,421828,university
+9f76d659c4544f939ac073507bda4e42,Cory Wall,56,divorced, ,72,155,14,978,protein_based,no,no,no,Tokyo,40,none,506347,university
+dd98d20d70d6463ebd0e4c7536779407,Luis Joyce,33,single,male,61,163,17,3865,vegetarian,yes,no,yes,Shanghai,87,diabetes,502903,college
+f0c1d2583308477ead28d483b5af92d2,Lori Hunt,16,single,female,127,213,19,2575,vegetarian,no,no,no,Tokyo,19,none,203418,university
+36f978a1b52e481e9461be5a7ef7ee83,David Li,40,widowed,male,105,148,11,815,vegetarian,yes,yes,no,New York,51,diabetes,26274,other
+96865ec5eb5e4015809b435cc1e5f495,Patrick Cooper,41,married,male,122,137,21,2662,protein_based,yes,yes,yes,Dubai,8,none,373394,other
+b48eff4339b34018a7174805799deaf3,Dennis Brown,53,widowed,male,81,153,7,3812,carb_rich,no,no,yes,Dubai,53,heart_disease,236271,university
+1f618dca63b546d6b72a1b5b63a86875,Lisa Mccann,38,widowed,female,114,197,14,2678,vegetarian,yes,yes,no,Dubai,73,none,347289,college
+09ce754b72c7461d88a0a86889c6b43b,Megan May,58,married,female,122,209,5,1232,carb_rich,no,yes,yes,Delhi,72,other,972291,other
+2c4a6a326c324ab2bc40c1aef09ee5ec,Miranda Miller,45,divorced, ,55,135,8,3417,protein_based,no,yes,yes,New York,75,heart_disease,905355,college
+eb9c7f478f0c433a9ff0bd659b787789,Ian Owens,23,divorced,male,61,186,0,2688,vegetarian,yes,no,yes,Shanghai,41,heart_disease,344753,other
+b6963273367d4acd878d8ef7986274d8,Christopher West,35,divorced, ,88,196,9,3167,other,yes,no,yes,Delhi,33,none,788674,other
+c3ade80252914fa28056a737683bdd79,Ryan Benton,23,married,male,92,160,24,149,other,yes,yes,yes,Shanghai,99,heart_disease,32037,other
+3682eea962ce4b6498698cacc77110d0,Denise Carey,26,married, ,89,180,8,3067,other,no,no,no,Delhi,4,other,743355,other
+f3d4598cee194fde84cd171fc2204aaf,Ryan Benson,24,married,male,117,193,3,659,carb_rich,yes,no,no,New York,32,diabetes,821646,university
+63de5c70384945cb8f90b85e76c43f1c,Laurie Atkins,55,married,female,112,171,13,3682,other,no,no,yes,Paris,93,other,991819,university
+483e1297595149e393731412303b563e,Shawn Wheeler,50,married,male,91,202,17,3433,vegetarian,no,yes,no,London,5,heart_disease,524415,university
+9ca70a244851419194d6501f0db1ad00,Robert Woods,42,divorced, ,127,135,13,1552,other,yes,no,yes,New York,11,other,108820,high_school
+ba5d7d39614c4fc39f9909ebea51417d,Kendra Baker,37,widowed,female,126,120,10,2824,carb_rich,no,yes,no,Dubai,70,heart_disease,883939,other
+1efab2594b98483896d4139ac5ba23c0,Caitlin Oliver,58,married,female,64,136,22,1647,vegetarian,yes,yes,yes,Dubai,10,none,397293,university
+95b5e9bf06be4ae89157aa532d1883f8,Erica May,45,widowed, ,130,142,11,3878,carb_rich,yes,yes,no,Paris,71,heart_disease,175000,high_school
+d2b4c3bffb0148d4b0cdb711f832e348,Mr. Timothy Branch DVM,44,divorced,male,52,127,6,3731,protein_based,no,yes,no,New York,34,none,586718,high_school
+d063caced2474b9cb90bc009740b1c6a,Alicia Sloan,59,married,female,82,154,23,593,vegetarian,no,yes,no,Delhi,78,heart_disease,54132,high_school
+357a80f823eb44589ed26dd6dbd5999f,Tina Jackson,50,widowed,female,47,132,11,2852,vegetarian,no,no,no,London,90,heart_disease,242278,university
+23e6c897423147c088e9ce64142a5743,Daniel Morgan,49,married,male,48,204,4,2181,vegetarian,no,no,no,Tokyo,61,other,554251,college
+d102c10616e747f283ba27264181f6df,Russell Mclaughlin,45,married,male,85,163,17,2334,carb_rich,no,no,yes,New York,67,heart_disease,611869,other
+3c218dcbb50443d482e603b3ebb1125a,Deborah Harris,58,single,female,65,162,1,3868,protein_based,yes,yes,no,Paris,43,other,375918,high_school
+0f97dc5d77b947b3a61e365dccc1e40e,Charlotte Diaz,28,widowed,female,79,213,3,2026,other,yes,no,yes,London,88,other,745690,high_school
+a846c2daaf5c4786b57a57cd3dc7770c,Linda Smith,41,married,female,129,201,23,1354,vegetarian,yes,no,yes,Dubai,17,heart_disease,83822,university
+fa7cbaa65dc343cca2e53819fc48d9ef,Kristi Mccarthy,17,single,female,130,139,4,2310,carb_rich,yes,yes,no,Paris,16,heart_disease,274823,university
+2513461b975846b79c8c6b6f6e2770aa,Thomas Brown,39,divorced,male,125,204,17,,vegetarian,no,yes,,Shanghai,77,diabetes,90607,other
+b4d7b4bfb73b46b08a4661f33de82d63,William Murphy,33,single,male,122,187,9,1597,protein_based,no,yes,no,London,32,sugar_intolerance,567309,university
+3dc1e163b809496a8e0abe7513a10fed,Abigail Johnson,17,widowed,female,91,132,0,1250,carb_rich,yes,yes,yes,Dubai,36,other,963733,college
+4d57651f2a4a451c95bb99101f4355fa,Tammy Jordan,48,single, ,129,202,5,546,vegetarian,no,no,yes,Delhi,24,other,241535,university
+c5b77fa6e9034d5c8b99f787a835394f,Jordan Paul,19,widowed,female,95,164,20,2824,protein_based,no,no,yes,Paris,84,sugar_intolerance,260834,high_school
+f76d8de329ab41b797420f7d515914ca,Jeffrey Perez,37,divorced, ,119,201,13,1498,vegetarian,no,yes,yes,New York,85,diabetes,957698,high_school
+8f11888b73d54fc5a950ffecfb63ca26,Brianna Padilla,31,widowed,female,121,122,14,1638,protein_based,yes,yes,no,London,89,heart_disease,102231,university
+359c2d7001114ec18caae41e8849d720,Mary Williams,40,widowed,female,91,148,24,3228,other,no,yes,no,Shanghai,8,none,91984,high_school
+dcaf5882d91a4f98ad66e2edc290688a,Brandon Rice Jr.,28,widowed,male,90,166,22,2157,other,yes,no,yes,New York,59,heart_disease,909975,college
+d5742886deb54cb58b9ecea5c03f597d,Jennifer Nicholson,48,married,female,94,166,7,3852,other,yes,no,yes,Shanghai,40,sugar_intolerance,260532,college
+1530bfc86d354b7992607c083db462ed,Jessica Clay,51,single,female,82,214,3,2004,protein_based,no,no,no,New York,24,other,255678,university
+4f1eb78798eb4295b24513d314b82b3f,Joe Richardson,56,single,male,90,195,2,3751,other,no,no,yes,Paris,1,diabetes,360473,high_school
+6177d90ba35847f7a3e5de10b6389178,Brian Arnold,50,single,male,111,143,23,1357,vegetarian,no,yes,yes,Delhi,60,none,378546,college
+b77e9b59e5e0426590699a1ee287db7f,Susan Washington,41,widowed,female,80,199,0,1142,protein_based,no,no,yes,Paris,58,sugar_intolerance,190280,other
+124a3e805b394cda85f60557c2991710,Michael Carpenter,21,divorced,male,107,173,8,2729,carb_rich,no,yes,no,Dubai,15,diabetes,641668,college
+682fb1f05cdf4c6199c3f1a5369eff8e,Nicholas Smith,57,widowed,male,113,150,21,2440,vegetarian,no,no,yes,Shanghai,13,heart_disease,284335,college
+c01ef10ff0c94e25b7f58849309bfb74,Teresa Mendoza,21,single,female,124,205,7,3033,protein_based,no,yes,no,London,26,sugar_intolerance,985486,other
+9df5117b6f61419586ec3ef8acf0b31f,Sara Salinas,30,widowed,female,49,165,3,3278,vegetarian,yes,no,yes,London,9,sugar_intolerance,21141,university
+f7f956a6fea6435cad5d5432a3c142c1,Gabriella Lane,45,married,female,46,152,7,2881,other,yes,no,no,Dubai,59,sugar_intolerance,78283,university
+cd85873397a4455f9fef988fc939648e,Gregory Houston,20,widowed,male,56,162,10,1552,other,yes,yes,no,Dubai,66,heart_disease,694426,high_school
+ef618eab336d49c9af95886f82034d73,Luke Jackson,35,widowed,male,47,165,17,1239,vegetarian,yes,no,no,London,19,diabetes,965989,college
+0aa94b64614543f98789cc4a209d9f31,Jamie Booker,28,widowed,female,66,173,13,3355,vegetarian,no,yes,no,Delhi,74,sugar_intolerance,562831,university
+39051bf90e4541bfa2061cabb15c3b2c,Janice Petty,25,widowed,female,118,194,4,2349,protein_based,no,yes,yes,Paris,55,sugar_intolerance,693313,high_school
+b34cf3fafa6e430691b173ba8ad8c1e0,Robert Dixon,38,single,male,47,158,13,841,vegetarian,no,yes,yes,New York,46,diabetes,848754,other
+57dd815d15da413e9bec58150e2e4357,Anna Davis,33,divorced,female,117,154,4,121,vegetarian,yes,yes,no,Tokyo,3,sugar_intolerance,844965,other
+996b6771b6ca4eeba0e94be9a3d4db9a,John Lee,59,married, ,74,219,15,3323,protein_based,yes,no,yes,Tokyo,38,none,716423,college
+55971104c1db42e5bc27b22053681632,Shari Powell,44,single, ,99,204,13,2341,protein_based,no,yes,no,Tokyo,9,diabetes,311429,college
+f18da769775d4557b2269db0f77cf40d,Shelly Morrison,60,single, ,65,169,23,427,protein_based,yes,no,yes,Paris,22,none,375083,high_school
+20fb1f9b7ead4e20bf23bbb11e7abb9d,Jeffrey Martin,56,widowed,male,67,179,7,3942,protein_based,no,no,yes,Paris,4,diabetes,781780,university
+f746202cd484460d9f888aa719d960c9,Gavin Wright,27,widowed,male,84,180,20,2554,other,no,yes,no,Tokyo,97,other,994423,high_school
+7cc5d36352f848c195aca29004310316,Megan Carter,44,single, ,79,134,21,2813,vegetarian,yes,yes,no,Shanghai,45,none,834907,other
+592ef3af7548414091b5c060ec1231ac,Sheila Dudley,42,widowed,female,101,159,17,266,carb_rich,no,no,yes,Shanghai,42,diabetes,8823,other
+92faba1f4b04453195dc51077d4e1ecf,Michelle Garcia,16,widowed, ,78,163,8,941,protein_based,yes,yes,no,Dubai,50,heart_disease,331162,other
+f4ee89d8cfb5405b8c80b88366b36d98,Ariana Flores,33,single,female,104,199,19,3946,carb_rich,no,no,no,London,4,sugar_intolerance,387483,high_school
+e6d74f41f6bb44fabeff4908022bed5d,Hannah Williams,15,married, ,75,178,13,2093,vegetarian,yes,no,no,Tokyo,54,sugar_intolerance,488523,university
+0024c5d649da40f9a37ebf91c3c62354,Dustin Harrison,54,divorced,male,125,172,10,314,other,yes,yes,yes,Dubai,92,other,940668,college
+f002a0165b5e4a4db59d967cc077e94f,Brittany Jones DDS,15,single,female,52,169,4,1618,carb_rich,yes,yes,yes,Delhi,40,diabetes,700000,university
+2d2f0d1002ca43a5967f806af2552fce,Karina Kennedy,45,divorced, ,95,141,5,3829,protein_based,no,no,yes,London,7,diabetes,940653,high_school
+37efd74f59904f35aecf79e190124a0b,Brandon Mitchell,36,single,male,118,218,19,2451,carb_rich,yes,no,no,Shanghai,56,diabetes,390514,college
+7bb94e3c483f45e189841993408136d9,Cheryl Valdez,25,married,female,126,124,0,1396,vegetarian,yes,yes,yes,Delhi,51,none,922663,other
+17c897cd947a4006910d6f03d1c3be78,David Johnson,26,single,male,100,190,1,1856,carb_rich,no,no,yes,Tokyo,6,diabetes,555482,high_school
+5f63e38e827d4797b60d80b48fb39b70,Martin Davis,52,divorced,male,50,139,20,1676,carb_rich,no,yes,yes,Paris,73,heart_disease,591570,other
+348b5be14c74443da03a9041928367f9,Sandra Pena,28,widowed, ,85,162,15,2728,other,yes,no,yes,Paris,91,none,543710,university
+03dc0c173efd4f36b6753d99637aef90,Kevin Benitez,57,divorced,male,104,133,4,1738,other,no,yes,yes,Delhi,89,other,379767,college
+7268781de6824e6da65f6dc12b06803e,Sarah Juarez,39,married,female,128,173,4,3429,vegetarian,no,yes,yes,London,7,other,693436,high_school
+271eda61cd0440f4bbf83351c266c045,Stephanie Vazquez,59,single,female,128,198,7,370,vegetarian,no,yes,no,Paris,19,diabetes,780224,high_school
+a3986ca6de534959958c3abe95b5ebe3,Sharon Gardner,54,divorced,female,110,171,5,2143,vegetarian,no,no,no,Dubai,17,heart_disease,350693,high_school
+c66dde8b1f4c47de8c2ece3a431958c6,Ashley Medina,60,married,female,49,160,5,3351,vegetarian,yes,no,yes,Tokyo,85,heart_disease,547846,university
+93ccad2526ab4ce1817c7aa3e8f855d7,Jacob Garcia,23,divorced,male,129,191,4,2095,protein_based,yes,no,no,Paris,92,diabetes,940424,university
+d325df49b2ce4feea93f7e2bd13dd7b8,Travis Higgins,19,single,male,67,159,21,1406,other,yes,no,yes,Shanghai,19,diabetes,982022,other
+0e592b1ae8fd4a1f8bc1211ab10bba9d,Maria Davis,36,single,female,59,185,13,2500,vegetarian,yes,no,no,Shanghai,33,diabetes,868996,university
+70e517a99df9445aa460d04fa1446d5c,April Reyes,35,single,female,53,178,14,503,vegetarian,no,yes,yes,New York,57,diabetes,209949,high_school
+14f3862a20284d579ce1f85606d4d0a6,Katie Tucker,25,widowed, ,100,162,9,2736,carb_rich,yes,no,yes,Dubai,50,none,148627,other
+d71c64516d3449e7a974f547d0c6ec6b,Roger Martin,29,married, ,107,192,18,3605,protein_based,no,yes,no,Paris,51,sugar_intolerance,364114,high_school
+df88e62de9fd4110b8a1809e044bfc26,Christopher Chapman,45,married,male,108,200,4,3995,carb_rich,no,no,yes,New York,51,sugar_intolerance,972388,other
+a938cd58ab99423b9c2562264fc0c224,Lance Williams,59,widowed,male,122,219,3,3340,protein_based,no,no,no,Shanghai,23,sugar_intolerance,828630,other
+0cfe9140ad394480aa0ec213b05ed63e,Linda Chang,25,divorced, ,51,183,23,2144,vegetarian,no,no,yes,Dubai,11,none,41394,college
+72c13dac75ce43e586d1d9db18470a9a,Adam Holloway,16,widowed,male,102,130,0,3695,protein_based,yes,no,no,Delhi,79,none,862580,university
+2a3168eff34d43b1b73e03deb0e518c1,David Atkinson,24,married,male,47,206,19,1132,other,no,no,yes,Delhi,1,heart_disease,673036,high_school
+1dab1b3ff5824e2d8e2d6815521e9408,Maria Hughes,50,divorced,female,130,160,11,1862,other,no,yes,no,London,9,other,253154,high_school
+81cedc84693545a0ab60059bf8fcef50,Jose Cuevas,49,married,male,64,145,18,352,carb_rich,yes,no,no,Dubai,56,sugar_intolerance,218984,high_school
+ae8b2884880a4a1bbeb57166471c07eb,Lindsey Rosario,36,divorced, ,110,213,19,858,vegetarian,no,no,yes,Shanghai,11,none,459821,high_school
+7f01e01724e2486f83de9fd9ba4b3923,Dr. Michael Lewis,37,widowed,male,53,157,3,678,carb_rich,yes,yes,yes,London,50,diabetes,263160,college
+b238db2a4dec46ffb7dac9757d333451,Peter Lopez,19,widowed,male,94,151,14,2109,vegetarian,no,no,no,Delhi,36,heart_disease,837917,high_school
+1c0b5d038d264aa6926780e787912afa,Brandi Parker,34,single,female,53,122,11,2995,carb_rich,no,no,yes,London,84,heart_disease,962819,college
+919101c054234f27be446ceccbc8988b,Keith Galvan,36,single,male,97,185,9,2942,vegetarian,no,yes,no,Dubai,31,sugar_intolerance,587095,high_school
+f2addd49e55a43cb909b9f08eafde9ce,Susan Little,35,widowed, ,87,137,4,1199,other,yes,yes,yes,London,51,diabetes,717182,college
+54db0eb9f2d54d0fbace1cf62fe3e7e5,Travis Brown,57,divorced,male,120,134,20,2770,carb_rich,yes,no,yes,New York,14,sugar_intolerance,828145,university
+4a6b45ed215a41ca840a58e15842b10b,Matthew Soto,55,divorced,male,50,141,21,28,vegetarian,no,no,no,London,3,other,768067,other
+23ffac6bf0e4493dbe7389b90d257780,Carol Reynolds,41,married,female,126,129,5,1011,protein_based,no,yes,yes,Dubai,24,none,901057,university
+414def32933b4daabde6e30799b08108,Daniel Johnson,25,married,male,71,198,6,3680,vegetarian,no,no,no,Shanghai,37,other,214794,high_school
+cc7436b8afff4ed2bf41940923cedb82,Christopher Walker,29,married,male,58,204,0,463,protein_based,no,yes,yes,Paris,51,other,328500,college
+5f97ce638d734485ac48104559dcef46,Gregory Pace,43,single,male,71,208,5,3088,carb_rich,yes,yes,yes,Tokyo,38,heart_disease,493191,high_school
+69fdfb360b884d3a8cfbd5d162d1e6d4,Matthew Mcmahon,52,divorced,male,72,127,2,2137,carb_rich,no,no,no,Delhi,18,heart_disease,782043,college
+d2ce357ebbe34d92810b4763ae71ecef,Erik Walker,17,widowed,male,123,200,7,2603,vegetarian,no,no,no,Delhi,7,sugar_intolerance,80320,other
+940e33cf51ce490eb70f5b51f841c959,Frank Harrington,40,married,male,74,162,23,3497,vegetarian,yes,yes,no,Shanghai,84,diabetes,59630,university
+e72375a720c44303943318eb87162ff7,Stephanie Hill,44,divorced,female,110,140,18,3530,protein_based,no,yes,yes,Delhi,49,none,649896,college
+7b4bb7ac619c454a8f89ce19dd6736a8,Alyssa Giles,60,widowed,female,123,138,7,3435,vegetarian,yes,no,yes,London,96,diabetes,700726,other
+cfb01e3c24cc4a308b9a36a42fd27b69,Mark Rivera,22,single,male,70,138,11,2940,protein_based,yes,yes,no,Dubai,58,diabetes,997239,college
+eca54413f067407abe16e4242a20c266,Timothy Koch,59,divorced,male,75,185,20,2123,carb_rich,yes,yes,no,London,45,sugar_intolerance,626629,high_school
+c84d95ac331e435281998f1491fbf631,Corey Reeves,26,divorced,male,69,120,14,3967,protein_based,no,yes,no,New York,9,diabetes,551416,high_school
+d98ad12ee08e4249a38227b24a9d67a3,Julia Kent,46,married,female,66,132,12,482,other,no,no,yes,London,54,sugar_intolerance,353749,college
+a89f3eeb9f0d4e999e724c721e2960ab,Michael Mcintyre,21,divorced,male,52,215,7,34,carb_rich,yes,no,no,London,89,heart_disease,463800,other
+75a75b8bf56f464b932351bf752f5c77,Dylan Beard,53,single,male,70,197,20,1674,carb_rich,yes,no,no,London,76,heart_disease,118292,university
+874480524c974c4c92f008e91f1dc032,Jeremiah Crosby,31,divorced,male,86,123,13,2148,vegetarian,no,yes,no,Tokyo,95,other,230526,other
+0674df80de564cfa8860d4af64dc1bc9,Heather Curtis,58,single,female,106,174,20,825,other,yes,yes,no,Tokyo,98,none,288635,other
+2a21cf8d2bdc431ea61e44ed5b3d986a,Laurie Smith,21,married,female,97,174,4,175,vegetarian,no,yes,no,London,3,none,433482,college
+1e3086f2ee914134832eaf497f698cb7,Kathy Ortiz,45,married,female,67,198,20,2024,other,no,yes,no,Paris,75,sugar_intolerance,455957,university
+cefe97d44feb4e86b71717a83a1a037b,David Davis,29,widowed,male,45,192,15,588,protein_based,yes,yes,no,Shanghai,42,heart_disease,256774,high_school
+6ec04cf42f054500a93e4a341054dbe5,Jennifer Stewart,28,divorced,female,79,121,21,224,vegetarian,yes,yes,yes,Delhi,92,diabetes,436354,other
+b33724a6cdf64f8bb302d78b464caeea,Kayla Morris,60,single,female,120,160,5,56,carb_rich,yes,no,yes,Delhi,37,diabetes,620213,college
+2dbf80613c554ca4b5f807e4cf97fe6f,Chad Phillips,25,married,male,89,127,15,2245,other,no,no,yes,New York,88,none,686266,high_school
+74a400089bfe440d87bbd11bb505e145,Heather Anderson,25,divorced,female,127,161,10,2144,carb_rich,no,yes,no,Tokyo,1,heart_disease,784213,high_school
+0c3f9e5b1b7743129c6a52ffdadab335,Jason Smith,57,single,male,130,131,6,2979,protein_based,no,no,yes,Dubai,79,diabetes,332243,college
+cec4b5a0ea014890b7d19c54a6b59370,Stephen Jones,18,single,male,94,135,17,1281,other,yes,no,no,London,74,diabetes,595650,other
+c8ca1b0c07744d3ea46322464607158a,Tami Perry,27,widowed,female,90,149,14,1066,protein_based,no,no,no,New York,20,sugar_intolerance,403469,university
+bb112060cece4a859a9e2238755b7aea,Misty Faulkner,51,single,female,62,219,10,2960,vegetarian,yes,yes,no,New York,97,diabetes,127928,university
+c850f4f7bace41cea7c57189bb1ecbb4,James Thomas,15,widowed,male,51,181,1,3211,vegetarian,yes,yes,yes,Delhi,21,other,619630,other
+055335f840d74deabeae49d47ed2b24b,Brandon Harvey,60,married,male,115,129,10,3607,vegetarian,no,yes,no,Paris,15,heart_disease,971106,other
+ab843bb481934069ae14804077e44b92,Kari Webb,40,divorced,female,79,217,17,3282,protein_based,no,no,yes,Shanghai,19,none,568754,high_school
+0a6973cb5a5a4ac9b6fa5519c01ade36,Casey Hendricks,60,single,male,119,146,9,3178,protein_based,no,no,yes,Delhi,0,other,686318,other
+dacc4a01eb7140cd8011db3badc26d12,Nathaniel Knox DDS,15,widowed, ,122,182,0,1076,other,no,no,no,Tokyo,20,none,876702,other
+f56fd6738b4b4a36b71c3ff626e6b933,Jody Moore,46,married,female,94,127,2,3249,vegetarian,no,yes,no,Delhi,34,sugar_intolerance,566810,university
+aa1afaf76c26493599adc46e44c7ea8b,Julie Zimmerman,28,married,female,125,174,22,2295,protein_based,no,yes,yes,London,93,other,107290,other
+7f8f908b7e1e4e8b818e430302f21e24,Lisa Martin,45,divorced,female,73,131,0,1841,vegetarian,yes,yes,no,Dubai,34,diabetes,91617,college
+6f0fdf3ec4b44a3bbce46d2a3f3f5a76,Michael Smith,53,married,male,114,201,2,3761,protein_based,yes,yes,no,New York,65,other,595970,high_school
+24bab2a741e44274a8295ebe172bdd26,Philip Hall,38,divorced,male,69,204,0,1192,other,yes,yes,yes,Shanghai,71,none,810983,college
+3243a5129c8d4825846358f6db4eb8b1,Megan Gallagher,44,married,female,79,129,11,2722,carb_rich,yes,yes,yes,London,38,sugar_intolerance,624530,other
+fc5af941551848c2956dd3b511908712,James Cook,44,divorced,male,123,180,22,28,protein_based,no,no,no,Tokyo,31,diabetes,346957,university
+33d585b8beae44a2ae65d0c75928bd76,Calvin Woods,39,single,male,123,210,17,1898,carb_rich,no,no,yes,Tokyo,25,diabetes,398309,university
+255ed91e74ad4792b5447d8b149b0086,Marilyn Robinson,59,widowed,female,82,186,19,1786,carb_rich,no,no,yes,London,79,sugar_intolerance,856024,other
+ddecf06ecc58499fa721956aa276851b,Linda Cortez,56,widowed,female,116,181,22,3287,other,no,no,no,Paris,23,diabetes,298353,other
+b9622f17e06842638ec1d16476d8c36f,Amanda Smith,38,married,female,57,186,18,568,protein_based,no,no,yes,Dubai,56,none,637508,university
+d9515f708965456fb5f54e5c1fb18d78,Guy Carter,36,single,male,70,200,3,3299,vegetarian,no,no,no,London,39,diabetes,965562,university
+ed1f01474c0644c9a423c09f5f8c4842,Jonathan Rice,19,divorced,male,109,133,23,3468,protein_based,yes,no,yes,Paris,92,diabetes,922846,university
+82d529912e8c4900901b8a1a3ef9709f,Karen Johnson,35,divorced,female,71,178,4,2939,protein_based,yes,no,yes,Delhi,39,diabetes,123063,college
+18cf90ed0c0743468398957a356686c3,Mark Gregory,58,single,male,76,184,14,2428,carb_rich,no,no,no,Tokyo,12,sugar_intolerance,810316,other
+0d53fe4cb1e044a68200c6d3403fd4d1,Katrina Foster DVM,44,divorced,female,124,130,18,1539,carb_rich,no,yes,no,Paris,0,heart_disease,204954,college
+a291173df2ae411ca133162d6c65f239,Beth Pierce,21,single,female,100,152,0,3328,other,no,no,no,Delhi,65,heart_disease,585615,other
+5a032ec73565416e86d105b6af46475d,Matthew Moreno,33,divorced,male,47,182,12,337,vegetarian,no,no,yes,Shanghai,78,other,899831,high_school
+af6492794826456695322cdfd2a76a6b,Jessica Brown,32,divorced,female,69,130,4,546,other,yes,yes,yes,New York,62,other,624191,other
+114e741d3c014da1a47ebc7f2900620e,Ryan Romero,43,married,male,81,134,1,805,vegetarian,no,yes,yes,Shanghai,59,other,929320,university
+d2edcd03e5544d64b83f071a900c9f55,Jimmy Pope,36,divorced,male,71,129,23,607,other,yes,yes,yes,London,52,none,813809,university
+cbf28a2fab6141f8bbfec5df772bee52,Misty Pena,26,divorced,female,61,167,22,2243,protein_based,yes,yes,no,New York,93,heart_disease,489379,college
+1fe50d7438114988b566e7299c9295e9,William Watkins,59,divorced,male,75,131,5,198,other,no,yes,no,London,78,other,100644,university
+d4f39d02419145af97c8c62b65bdc86d,Bryan Baker MD,45,divorced,male,126,152,12,1773,carb_rich,no,no,yes,Paris,81,sugar_intolerance,530306,university
+81d88a93372a4d16ad05cb833da677fb,Justin Howard,15,single,male,72,144,20,657,protein_based,yes,yes,yes,Paris,99,diabetes,183665,university
+0c4692f4df314b1e9a9970194f4f212c,Timothy Hall,38,married,male,95,151,8,1648,other,yes,no,yes,Paris,0,diabetes,652697,university
+1b706f9f464549539b33a1de520bf5ca,Emily Gonzalez,53,widowed,female,69,190,17,1074,other,yes,yes,yes,Dubai,54,other,804914,other
+25d426aa681c4cf6bc96f50f2121e51a,Stephanie Reyes,29,widowed,female,101,151,2,1224,protein_based,no,no,no,London,62,sugar_intolerance,561557,college
+74f4e8ae69174be0a1fe01c90f8c8670,Stephanie Patterson,15,single,female,78,185,11,3339,other,yes,no,no,New York,7,none,789514,high_school
+910af64143544ed3921d689bc50aea31,Linda Stewart,23,divorced,female,107,129,19,2188,carb_rich,no,yes,yes,New York,11,other,636360,other
+82009a3ac0ba44e89e78268462bb95b6,Benjamin Huber,16,widowed,male,82,159,10,541,carb_rich,no,yes,yes,Tokyo,86,sugar_intolerance,45352,college
+1f6c703e644e4264b59943a88499517f,Sandra Aguirre,42,widowed, ,81,177,1,1770,carb_rich,yes,yes,yes,Delhi,20,none,84000,college
+5425699bb5bc4dd49842386a5448c4f8,Brandon Miller,26,married,male,120,146,24,459,vegetarian,no,no,yes,London,9,other,904318,other
+9ba0a852106b492d8044d5387426649e,Jesse Torres,46,single,male,51,209,15,3825,carb_rich,yes,no,no,London,16,none,740742,university
+0765040bde6242c484f21d4387bf5ac9,James Wallace,49,married,male,78,134,13,2565,other,yes,no,yes,Shanghai,19,none,829691,college
+57f6c77b14894cd98e6ce8293ea0bafb,Caitlyn Klein,43,single, ,95,165,15,211,vegetarian,no,yes,no,Paris,24,heart_disease,508273,other
+9361e923faee41afba66c1bf1216f908,Deanna Wagner,53,divorced,female,57,155,24,3664,carb_rich,no,no,no,London,47,diabetes,231348,college
+7e87688e03024d9db9e437e0a35937ca,Ryan Flores,20,divorced,male,62,220,17,149,protein_based,yes,yes,yes,Tokyo,70,sugar_intolerance,518930,high_school
+0cdda0397b3749a1ba26eddfe1f39642,Amber Robbins,50,widowed,female,100,163,8,337,protein_based,yes,no,no,Paris,76,sugar_intolerance,681319,other
+0c720963bd544450b27cfc43db5b021b,Gloria Morgan,42,widowed,female,101,169,6,1098,carb_rich,yes,no,no,Paris,86,other,252137,other
+89ab0987b1fe49b3b35e7d6be03cc30c,Timothy Obrien,15,widowed,male,97,207,21,1930,carb_rich,no,yes,no,Delhi,33,other,721373,university
+03a00c3247f846eeb00b5b2b4b207843,Mr. Donald Nelson,53,widowed,male,114,127,15,160,vegetarian,no,no,yes,Delhi,50,heart_disease,403626,high_school
+050c4d5ef925438aa14bab008be83b12,Matthew Nelson,50,single, ,86,126,11,3249,carb_rich,no,yes,yes,Tokyo,23,heart_disease,919262,other
+7b8df58df41b4fa8a6d276af03ac9f67,Heather Kirby,43,single,female,53,203,18,4,protein_based,no,no,no,Tokyo,4,sugar_intolerance,814263,college
+7b886f220f534eda8359a0dfce481006,Tamara Kemp,53,married,female,90,149,16,2829,protein_based,yes,no,yes,Tokyo,92,other,116912,university
+9ad4a4fcf74c41dc8792dd55aa7b8307,Jennifer Cruz,19,widowed,female,102,148,0,2298,vegetarian,no,yes,yes,Dubai,50,heart_disease,365899,other
+2ec1c1b9d5aa41d598d90eae4e099720,Samantha Pope,42,single,female,103,175,21,3035,other,no,no,yes,Dubai,88,heart_disease,762883,high_school
+6ea40e6297b94e6198449cdf5d6f95ed,Albert Mathis,19,divorced,male,55,122,12,548,carb_rich,yes,yes,no,Tokyo,84,sugar_intolerance,22831,high_school
+2d400331ea054ac8a2c540e7df337d45,James Roberts,42,widowed,male,60,162,22,1866,vegetarian,no,yes,yes,Dubai,22,diabetes,581090,high_school
+c2fefae7e33c46df868e05a0ae9193ba,Ryan Lopez,39,married,male,124,197,14,2448,other,no,yes,yes,Shanghai,60,other,25867,other
+64b686284ec4480b953cd98c0a6a2297,Gerald Barton,60,divorced,male,69,120,16,2809,protein_based,no,yes,yes,Shanghai,0,none,620211,college
+11750ac4d18f4776a8782cb88d25c3d1,Crystal Payne,33,divorced,female,96,194,4,3667,carb_rich,no,yes,yes,Shanghai,86,sugar_intolerance,435103,other
+0e9fadeaa87642909f34294cf7188a3e,Daniel Bright,31,divorced,male,48,126,2,1066,vegetarian,yes,yes,no,Shanghai,80,none,423948,other
+ea5981926dec4e468cbfc2c75619de65,Mrs. Ashley Peters,45,divorced,female,71,201,10,2179,vegetarian,yes,yes,yes,New York,15,other,845237,other
+0118ac43ada4494c9a2fc770c651a221,Todd Moore,33,married,male,96,172,18,3170,protein_based,no,no,no,Shanghai,44,sugar_intolerance,692344,college
+05a32f77b60240e1903c9daf56415416,Amanda Mosley,55,widowed,female,46,144,2,3838,other,yes,yes,no,Paris,66,sugar_intolerance,260232,other
+a4da872b7b0b413d9a7c555ce50737d7,Mrs. Rita Krause,51,married,female,62,162,10,1390,other,no,yes,yes,Tokyo,29,sugar_intolerance,917853,high_school
+c013e54583814cd6929b62ccc7ff6d92,Kayla Long,53,single,female,58,190,12,3244,vegetarian,no,yes,yes,Dubai,3,sugar_intolerance,141994,other
+72ba117731f447b695b55cfdc811d9e4,Nancy Jenkins,28,single,female,120,132,23,3687,carb_rich,yes,yes,yes,Paris,69,other,690239,university
+b0335095443e46fca80cacd685b86ff2,Anne Hart,15,divorced,female,124,212,2,3702,other,no,no,yes,Dubai,78,none,526719,high_school
+33e6b62aef594a1493754686142c5b4a,Jonathan Hall,48,married,male,120,148,15,3867,other,no,no,no,Delhi,22,diabetes,35865,college
+8a03f3f6eb8449b48e6cae18df53613d,Christine Mann,46,divorced, ,119,165,18,2685,other,yes,no,yes,Dubai,60,none,625599,college
+dc248c93df5d4323b3321fba379b784e,Cynthia Delgado,55,widowed,female,83,122,13,615,vegetarian,no,no,yes,Paris,68,none,338588,other
+f794ec63968a4fb99eda5b64fedadd83,Jennifer Scott,42,divorced,female,53,187,4,436,other,no,yes,no,Delhi,40,none,175191,other
+6167a01733f54dd5be4a69cc902a854a,Donna Kelly,47,widowed,female,98,209,11,2953,vegetarian,no,no,no,Shanghai,12,diabetes,211279,other
+d725ffa10f3f474093f66f56b5794a1b,John Hayes,47,widowed,male,59,190,11,315,other,yes,no,no,New York,38,diabetes,979333,other
+4690d36e3c724f06bebaa016fab75ffa,Lindsey White,24,divorced,female,55,212,2,1704,carb_rich,no,no,yes,Tokyo,54,sugar_intolerance,394450,college
+43f3df5cd6df4afb838482c2389f33d2,David Byrd,43,married,male,58,169,2,3887,carb_rich,no,yes,yes,Dubai,49,none,317106,other
+53589213b9a34ec6b91370dc6a784580,William Keith,59,widowed,male,53,216,0,265,other,no,no,no,Paris,70,diabetes,13593,other
+c460453b05614f5db3ffbbfd5fc37d5f,Monica Jenkins,21,widowed, ,129,215,6,266,vegetarian,no,yes,no,Tokyo,93,other,171359,other
+ce7989dc4d1b449683f6a7a3a295b39b,Jacob Sanchez,49,divorced,male,92,165,17,2350,protein_based,yes,yes,no,Shanghai,52,sugar_intolerance,5175,college
+ea5b1a55309e4855b79608156dadf46c,Darren Perez,28,widowed,male,123,214,20,1174,other,no,no,yes,Delhi,25,diabetes,70682,university
+3538112d745845bc8dfc8dd14564c2fb,James Buckley,52,married,male,128,184,2,1943,carb_rich,no,no,yes,Shanghai,51,none,112000,college
+b195a0fa675b412a90b56b9b9ee77722,Nicole Carter,48,single,female,66,122,19,2668,other,yes,yes,no,New York,55,other,515948,other
+562ec6b61ce045c7b24f4b184d73aa64,Kevin Kelly,18,widowed,male,124,193,20,1201,protein_based,yes,no,no,Paris,32,none,80765,college
+acc4f22218954f728071e4e5f262969f,Crystal Reid,52,single,female,69,220,3,3828,vegetarian,no,yes,yes,Shanghai,26,diabetes,551103,high_school
+f8fc40019c8a4860afaaf59c90dc398b,Kristina Casey,47,divorced,female,104,184,5,2212,protein_based,no,yes,yes,New York,56,diabetes,880144,high_school
+1dfd7a6b843e4b1ab658b82172cc38ad,Tristan Gilbert,42,single,male,54,165,11,646,carb_rich,yes,no,yes,Dubai,69,sugar_intolerance,204502,university
+d1a38170830a45c3bed3368f19503fea,Kevin Mendoza,37,single,male,76,212,24,3796,carb_rich,no,yes,no,Delhi,93,diabetes,82167,university
+8f0adac1a73f4a77b1e19a03e10f1f01,Ellen Clark,24,divorced, ,83,172,18,2991,other,yes,no,yes,Dubai,37,heart_disease,856275,other
+46e9786113534530af266ee7ad79e44e,Patricia Anderson,35,single,female,50,142,15,2533,carb_rich,no,yes,no,London,26,heart_disease,59444,high_school
+bd3c74fe410a47ac8056711bb6fed030,Amanda Reeves,15,widowed,female,62,179,14,2621,vegetarian,no,yes,no,Dubai,66,diabetes,756152,high_school
+22ba2831328648e38e5739478043f78b,William Jones,47,widowed,male,52,142,24,3994,vegetarian,no,yes,yes,New York,92,diabetes,912196,high_school
+65beaf66ae3c4af087df51692c4467f9,Jerry Richmond,45,single,male,124,151,16,3606,carb_rich,no,yes,no,Shanghai,50,other,624892,high_school
+207b38e21ba941dabcd1f39521398806,Richard Miller,40,divorced, ,92,212,23,900,vegetarian,no,no,yes,Paris,36,diabetes,849653,other
+11122c58bfa84a479f6cf123b3a143f8,Ricardo Padilla,36,married,male,110,205,6,608,protein_based,no,yes,no,Tokyo,89,other,24985,university
+34b1ab107de94e1d993864ed4027c88c,Ashley Lang,49,divorced,female,81,216,11,462,carb_rich,yes,yes,yes,New York,46,sugar_intolerance,104201,college
+2ac588017bd8426a85449fe91d907b75,Courtney Stein,53,married,female,81,169,1,1550,other,yes,no,no,New York,52,heart_disease,74652,other
+ca47b831e5444dd9b30588d7b3e8916a,Kara Bryan,26,widowed,female,91,132,4,2212,vegetarian,no,yes,yes,Shanghai,87,other,489462,other
+0d5de6bb882c4d18a414c9bb0d438e3e,Kaitlyn Cook,34,married,female,73,170,3,849,protein_based,yes,yes,no,New York,11,heart_disease,367473,college
+32bcb858be12436a9fa6705fc33d6982,Stephanie Rose,22,single,female,129,218,21,3569,other,yes,yes,no,London,14,other,643866,university
+04682884f2f64addb34dab7a8a63d085,Holly Walker,50,widowed,female,107,151,14,946,carb_rich,no,yes,no,London,24,other,471103,other
+d1e8e5d89c45419e834dcf6a23a0a3d3,Angela Baker,28,widowed, ,52,204,3,446,protein_based,yes,yes,no,Shanghai,82,other,453971,other
+28f27adb585e4749a46227fbab6c75ea,Mary Williams,37,single,female,76,186,22,3846,carb_rich,no,no,no,Delhi,31,other,769096,college
+d52e8a3641e44c1c8bb29b151c137769,Michael Estrada,51,married,male,89,161,13,2568,protein_based,no,yes,yes,Dubai,5,heart_disease,325177,college
+15c97036e8264436a59204f86daf27a3,Gina Barton,24,widowed,female,54,214,17,301,carb_rich,yes,no,yes,Tokyo,43,diabetes,677646,university
+1083d3835f6b4690b5d264f8e7c5ec57,Adam Hamilton,32,married,male,106,174,21,1070,vegetarian,yes,no,yes,New York,4,diabetes,650904,college
+14b92c86bcbb4367a86562dda4cf1bdb,Jeffrey Jones,28,divorced,male,94,180,2,2651,protein_based,no,yes,no,Delhi,19,sugar_intolerance,290912,other
+926f52de87ce430abc8ed6aae81694d0,Manuel Vance,31,married,male,82,191,6,3437,other,yes,no,yes,Delhi,29,none,439439,other
+c73b7160082445ab90f2e12b349f49d0,Angela Mitchell,32,widowed,female,66,141,10,1652,other,yes,yes,no,London,74,none,618296,other
+6eb2f6d464574a138dcb61fd0186499f,Amber Boone,37,widowed,female,104,161,7,3424,carb_rich,yes,yes,no,Delhi,64,heart_disease,486742,other
+ff61287dacfc400487fa0e18e3de8834,Michael Scott,38,divorced,male,66,175,20,3521,other,yes,no,yes,Paris,90,heart_disease,635712,university
+432af9d52f3949bf88ea8868e9fba611,Heather Foster,31,single,female,106,151,9,1645,carb_rich,no,yes,yes,Delhi,29,none,750075,other
+5801936978b04e7eb3d276eb9ec76b61,Andrea Ewing,54,married,female,102,198,2,76,vegetarian,no,no,no,Dubai,46,none,354775,high_school
+ee7a59fdd3624b949e7038058e719235,Joshua Yates,54,divorced,male,45,156,8,3697,vegetarian,yes,yes,yes,Dubai,33,heart_disease,840588,college
+f8dd90a795644d4eb79b082a661e16bb,Javier Cline,37,widowed,male,51,158,0,2410,carb_rich,no,yes,yes,London,91,diabetes,580943,other
+ee011ff1d7a24731806b26d1f48a0888,Matthew Contreras,19,single,male,102,154,3,1075,protein_based,yes,no,yes,New York,70,heart_disease,542882,college
+0eff3161400b4649b747e569e4e3b12e,Jacob Reynolds,47,married,male,122,135,6,990,other,no,yes,yes,Delhi,84,diabetes,895841,high_school
+5cd58b416ce5463e9da804c1b9d4ea8d,Vincent Oconnor,48,single,male,97,186,21,37,other,no,no,yes,Tokyo,46,heart_disease,653631,other
+041fd9640c3446b18e6b1eb514e3d74f,Kenneth Harris DDS,52,widowed,male,125,158,22,1721,protein_based,yes,yes,yes,Paris,69,diabetes,727989,other
+b784aa9ade8e4b479f35d506bf1d8787,Albert Lopez,25,single,male,120,157,19,554,other,no,yes,no,Dubai,66,other,429974,university
+7f2721dd2fcc404b93483bc716e4ebb0,Deborah Richmond,26,divorced,female,68,185,18,1284,other,no,yes,no,Dubai,58,sugar_intolerance,651843,other
+90235d5f2d40426e98031cf63ee8be82,Renee Randall,54,widowed,female,78,124,9,3281,carb_rich,no,yes,no,Paris,50,heart_disease,424762,college
+4f52a2163d0949c080b0bf96384d67ed,Justin Kramer,25,married,male,70,204,4,883,vegetarian,no,no,yes,Delhi,4,sugar_intolerance,257217,college
+4cb9c2fefbcd48eaaa2a841f718c517f,Steven Peterson,45,widowed,male,50,169,10,2161,other,yes,yes,no,London,92,none,662371,university
+091e7953e0624a73b8e695780a3c1b0b,Timothy Duke,25,widowed,male,53,154,20,3450,vegetarian,yes,no,no,Dubai,35,heart_disease,321549,other
+3bd082398ee64af5a1bef455cec958bd,Sean Cox,35,married,male,70,170,2,2376,protein_based,no,no,no,Shanghai,2,sugar_intolerance,957557,other
+679081b9ea804ffb90fc4618bb46b1ad,Maurice Peters,54,divorced,male,79,192,3,3624,vegetarian,yes,no,no,New York,0,diabetes,414454,other
+462b03c778a7482596c4a05a6b181295,Megan Swanson,15,divorced,female,46,210,4,2770,vegetarian,yes,yes,yes,Paris,72,diabetes,683653,university
+38fc37aa6d694d858356b88f16a12d7d,Laura Williams,34,married,female,54,164,21,2399,protein_based,no,yes,no,Delhi,60,other,617198,college
+08fedc3751b24c79af53fc404f1f4a75,Hayley Perry,29,divorced, ,80,211,7,567,protein_based,no,no,yes,Tokyo,29,heart_disease,977782,university
+4c26398b4c46440185129931a0a9fc69,Albert Harris,40,single,male,61,209,9,336,carb_rich,yes,yes,yes,New York,10,heart_disease,302591,college
+6db3a38e1051489388f2ca93fc591265,Stephen Zimmerman,55,married,male,92,133,15,3132,carb_rich,yes,yes,no,Paris,77,sugar_intolerance,335387,college
+1ade4add4e2f47d6a647d01c41c0702a,Carolyn Taylor,39,married,female,71,207,14,718,vegetarian,yes,yes,no,New York,8,diabetes,927679,university
+861dac3b671545c183fcc8748ba6ac96,Susan Martinez,37,widowed,female,122,199,19,812,carb_rich,yes,yes,yes,Paris,40,sugar_intolerance,244846,high_school
+c4598dce6b544a75aef507582ec647b9,Sarah Jenkins,21,married,female,68,154,15,1467,vegetarian,yes,yes,no,Tokyo,48,other,775992,university
+989cb768a77d44c09fd8a381e45b96b2,Katherine Lopez,49,married,female,78,180,16,249,other,no,no,yes,New York,19,heart_disease,308041,high_school
+97001cee956f4eebbfc21ad4cc9b859a,Paul Bell,47,married,male,47,121,22,2852,vegetarian,no,no,yes,London,12,heart_disease,441493,university
+803076c5cdcf48fd94e87eb840be2b40,Mary Simmons,44,married,female,91,168,5,2865,vegetarian,no,no,no,London,99,sugar_intolerance,700298,other
+92a7bbe1507846bdaac26e0ed3802ecb,Jennifer Christensen,48,widowed,female,78,135,6,1484,other,no,yes,no,Paris,17,diabetes,166990,other
+b64d94fe009d4de692999be3c28e3cd3,Amy Harrison,23,divorced,female,95,195,17,702,protein_based,no,yes,no,Dubai,14,sugar_intolerance,514162,high_school
+61c9073bb38742f3a85079550627d4e8,Matthew Briggs,50,widowed,male,127,218,12,758,other,yes,no,no,Paris,11,other,440800,other
+d7df5ea14314439ca5e9e390a26acb3d,Joseph Harper,15,divorced, ,78,133,23,3030,carb_rich,no,no,no,Shanghai,29,other,335725,high_school
+b19381b945034c8d89574f0c763a078b,Kyle Smith,30,single,male,50,201,13,3144,vegetarian,yes,no,yes,London,97,sugar_intolerance,989619,university
+bb82a27330964b84bcbfa9ddf0eaaace,Karla Waters,38,single,female,74,167,20,2437,other,no,no,no,New York,98,heart_disease,821026,college
+597f8d39e9fe41a1b0953f0824b83f78,Amber Evans,31,single,female,129,130,11,1252,carb_rich,yes,no,yes,Tokyo,98,other,449583,high_school
+0df5e6b98a714ef4abb6f5925278f673,Ann Mullen,59,single,female,83,209,10,2791,protein_based,no,no,no,Tokyo,68,none,848866,university
+42080c6a8e6a4f849ec51947d263bde6,James Mccoy,31,widowed,male,94,200,12,2868,carb_rich,no,no,no,Delhi,56,sugar_intolerance,701881,university
+9fe3d95a19524ed3a78dab8bed343cf1,Derrick Greene,25,single,male,69,197,13,1356,other,yes,no,yes,New York,67,other,75761,college
+253794503705486ebc36393c829017d9,Mrs. Amanda Williams,59,widowed,female,52,220,18,210,vegetarian,no,yes,yes,Paris,54,heart_disease,365233,university
+9f4c3bbad73a4b0ea8f7f8a0551b621f,Bryan Richards,46,married,male,124,192,15,1694,protein_based,no,yes,no,Paris,8,sugar_intolerance,648018,high_school
+9b40e12f2dcd4430be0a306ccc87ba23,Brandy Mejia,48,widowed,female,113,160,16,2935,protein_based,yes,no,no,New York,81,diabetes,714656,university
+252e0e3aaa49428e932f302e8a02e441,Taylor Jordan,20,single,male,117,150,20,939,other,yes,no,no,Shanghai,58,other,75741,college
+00fae04dd7974c059a0de32e74b1c8a9,Sarah Cooper,26,single,female,59,190,12,3997,carb_rich,yes,no,yes,Shanghai,50,other,293634,university
+b2d8d17e1bb24a91911b7024c0e61f47,Alexander Scott,53,divorced,male,123,191,19,775,carb_rich,no,no,no,Paris,18,other,577431,other
+964893f7a19c4735be9bc2ef75478e1f,Michael Brown,37,divorced,male,107,201,23,80,protein_based,yes,yes,no,Delhi,59,other,746610,other
+96348cbdecff4b37b8bb8bdf8a8ceaf0,Bailey Harvey,33,divorced,female,94,200,21,1351,other,no,no,yes,New York,66,heart_disease,233211,other
+14f95254163547cca31877f579b07f2c,Sarah Murillo,20,married, ,79,189,0,1213,protein_based,yes,yes,no,London,97,heart_disease,887495,high_school
+42829595297b499e8c9df022b0e15288,Ernest Douglas,51,single,male,47,132,4,3320,protein_based,no,no,yes,Paris,11,heart_disease,145889,other
+7016a4a9c1ba4da8be0567d256824aaa,Kimberly Miller,25,single,female,90,204,17,1534,protein_based,no,no,no,Dubai,1,heart_disease,767463,high_school
+592a2b8bc50a473b9b923c4747a1c6d2,Elizabeth Ochoa,43,married,female,116,151,16,487,carb_rich,yes,yes,no,London,82,none,838710,other
+0a0a183693974e64b289667c24ba5545,Thomas Williams,33,divorced,male,113,169,9,2483,carb_rich,no,no,yes,Dubai,41,sugar_intolerance,781470,college
+8056ab6206e241eb9efa1a45d2a49195,Matthew Jones,20,single,male,98,123,4,309,carb_rich,no,yes,no,New York,45,heart_disease,831958,college
+27606511fad5449e875389033c2341a6,Tracy Matthews,42,single,female,75,143,22,3404,carb_rich,no,yes,yes,Paris,41,heart_disease,75093,other
+7a74731c92cd4c9fae56aa1ebcde109b,Madison Huerta,27,widowed,female,123,135,13,2197,vegetarian,yes,no,yes,New York,55,heart_disease,734427,university
+94ce0a743cbf4144aabd8a5b7019a365,Barbara Watson,52,single,female,70,196,0,1075,protein_based,no,yes,no,London,68,none,389801,other
+0000e1c0c17c401e9d203c04574a91b6,Stephen Lawson,34,married,male,116,162,17,1243,vegetarian,no,yes,no,London,80,other,786071,university
+0fc553356da44bf5bd1d2e1f2651e20c,Maria Charles,37,divorced,female,108,213,24,612,vegetarian,no,yes,yes,Dubai,52,other,103199,other
+55fafe385e2c493fae270f95819d5245,Stephanie Ford,48,single,female,125,193,20,2249,other,yes,yes,yes,Dubai,37,heart_disease,811911,high_school
+5a3bf64aba8d472d9f70899879956e69,Christine Johnson,25,widowed,female,91,127,12,1835,protein_based,no,no,yes,Shanghai,35,heart_disease,173316,high_school
+5cbe642743024a06a2157e76bed7699b,Matthew Fleming MD,18,widowed,male,103,142,22,1384,other,no,no,yes,New York,54,sugar_intolerance,584344,high_school
+f1d8ebbe850b47b18bea6944837f664d,Crystal Riley,46,divorced,female,46,122,9,405,carb_rich,no,no,no,Shanghai,30,sugar_intolerance,369607,university
+3f7091acd0f042c7b926d5b65e50fd59,William Foster,51,divorced,male,56,202,15,626,carb_rich,yes,yes,no,Dubai,14,none,515886,high_school
+4e9b432c7eba49cea8fc38797fe0ec30,Daniel Cooper,39,divorced,male,100,209,3,2076,other,yes,yes,no,Tokyo,40,heart_disease,10495,other
+76e7418a65b445f9935dd0814c9dbe0e,Tammy Sanders,30,widowed,female,52,203,11,935,protein_based,yes,no,yes,Dubai,3,other,177648,high_school
+499cd956704240bcbc52a7e44f81be0e,Kylie Johnson,51,married,female,64,198,6,1460,protein_based,no,no,no,Tokyo,99,none,632592,university
+411a421827c943e5abc85ffe6612fd66,Kimberly Yates,23,married,female,118,147,18,2051,protein_based,yes,no,no,Dubai,43,heart_disease,481231,other
+af7a22adeaad4292aa825de1eb79fd19,Alan Archer,15,married,male,60,158,20,3635,carb_rich,yes,no,yes,Shanghai,80,none,757339,high_school
+363cb0d3213c47d9909369d86b67562c,Sergio Robinson,50,single,male,96,205,24,1725,vegetarian,yes,no,yes,Tokyo,69,other,891685,other
+f03b6425d66b4626b8d506d42a3803e3,Andrea Mueller,27,married,female,107,188,16,1429,other,no,yes,no,Paris,86,none,172428,high_school
+bdf64f1754504bb78a89c8d3b768cde8,Matthew Fleming,16,divorced,male,105,150,13,3228,other,yes,yes,no,Dubai,40,diabetes,286941,other
+9574ff1688dc437c885b148844d6ca21,Elizabeth Wiggins,47,single,female,62,126,4,3459,protein_based,yes,yes,yes,Shanghai,29,none,706371,high_school
+40a554b6b9254fbabb37821ba3210c20,Travis Martinez,26,widowed,male,123,123,24,3362,protein_based,yes,yes,no,New York,54,none,240940,university
+e5428790f84045ba81c112f2e7174473,Crystal Robinson,44,married,female,92,160,17,2407,carb_rich,no,yes,yes,London,68,other,386344,college
+338c075ce983448b99c04adc520f8a3f,Barbara Sanchez,51,married,female,78,205,18,1660,carb_rich,yes,no,yes,Dubai,23,heart_disease,911903,other
+257813425a5947e1b6f8c056162a2a51,David Parker,57,married,male,71,120,20,717,vegetarian,yes,yes,yes,New York,18,sugar_intolerance,288647,college
+6b1e3cfa31644afbaa29055611725a1f,Kimberly Mack,36,married,female,63,217,13,3074,protein_based,yes,no,no,New York,60,none,543615,college
+3c5b90658ef546649ce9c0a84c689b2b,Donna Young,52,divorced, ,126,124,7,1013,protein_based,yes,yes,no,Delhi,68,none,288338,university
+be995aca68a24396b872ac5a8d2da0cd,Samantha Perkins,39,single,female,129,186,5,3538,protein_based,yes,yes,yes,Shanghai,54,heart_disease,22399,other
+074efe7646b146479c0f354bf0abf722,Samantha Turner,15,divorced,female,66,187,11,3425,carb_rich,yes,no,no,Shanghai,57,diabetes,257580,other
+ace0509087b24abea6ebdddff39e55af,David Collins,17,divorced,male,108,178,13,856,other,no,yes,no,Dubai,35,diabetes,621191,college
+9fd2aa66f9184699977b715b55dca93a,Nicole Cabrera MD,44,divorced,female,77,207,0,336,protein_based,no,no,no,Shanghai,91,sugar_intolerance,518554,college
+abe79383790f4ffe83e70f65ea2b4896,Terry Mcconnell,43,divorced,female,61,143,20,870,protein_based,yes,no,yes,New York,58,sugar_intolerance,845167,university
+566f8aedcf754217abc402be470a3495,Elizabeth Bennett,26,married,female,120,151,14,1526,carb_rich,yes,no,yes,Paris,36,none,620997,university
+3d11bbe8f22449478abe1c16d158d259,Michael Campos,34,married,male,118,124,4,2095,carb_rich,no,no,yes,Shanghai,74,diabetes,191290,university
+199adef625c346259f13d534af310a10,Randall Mack,49,widowed,male,77,141,3,1640,other,no,no,yes,Dubai,48,heart_disease,14887,university
+9ba2c104bcac419fb67f9c6e3cfcea98,Nicole Mcdonald,56,married,female,64,127,19,3375,protein_based,yes,no,yes,Dubai,48,diabetes,101345,other
+d0443b5c89a44bbbaca183f15aeb056d,Michael Krueger,49,single,male,80,205,11,177,carb_rich,yes,no,no,Shanghai,11,diabetes,217302,other
+0794c938a16b4bb3a6d9fa76ddb9b830,Melissa Walton,16,divorced, ,109,125,16,2683,carb_rich,yes,yes,yes,Paris,58,sugar_intolerance,943641,high_school
+dfa4fd76cbde4830921ea1ae9abbe595,Albert Mills,40,divorced,male,81,152,3,887,other,no,yes,no,Tokyo,27,other,881358,college
+eadf999ebf0f4915a25eb232cee3d5ea,Julie Rodriguez,46,widowed,female,76,141,12,1153,vegetarian,yes,no,no,Tokyo,98,other,440084,university
+83ea15b0a67847628792d3863586a371,Thomas Nielsen,31,single,male,53,210,24,3963,other,no,no,no,Tokyo,100,sugar_intolerance,819115,other
+3721228fb16742cfba4dd02e9e8701a6,Sara Hopkins,53,married,female,114,136,10,2492,other,yes,yes,yes,Delhi,19,heart_disease,577426,other
+c04f7ee6566f425fb3af6f44f9511c84,Dr. Debra Jimenez,44,widowed,female,93,152,14,2578,protein_based,yes,yes,yes,Tokyo,73,heart_disease,552324,college
+2f05df2614504cc8a8009ca01ebde66a,Alyssa Ortiz,48,married,female,69,154,23,3,protein_based,no,yes,no,Paris,4,heart_disease,131583,high_school
+4097c954081841be9d08ae4719079d38,Jessica Tran,27,divorced,female,90,124,16,3275,protein_based,yes,no,no,Tokyo,71,heart_disease,233311,high_school
+9cffb12a97c54556819224ded5762750,Regina Larson,36,married, ,111,132,22,733,carb_rich,no,yes,yes,Delhi,80,heart_disease,32267,high_school
+cd73f885ab6b4e6293924e06e65dbc01,Megan Boyd,30,widowed,female,48,180,24,2264,carb_rich,no,yes,yes,New York,76,sugar_intolerance,480773,college
+4650a14ecdbd4a3696c6e56950f70c1f,Roger Hill,17,widowed,male,106,129,6,3937,carb_rich,yes,yes,yes,Tokyo,54,diabetes,689653,university
+33d39f6f712e46429960d2ddd9b70212,Kimberly Middleton,49,widowed,female,83,194,12,3456,other,no,no,yes,Delhi,2,other,685117,university
+a313d430dc15452196f06b9caa6d6d54,Kevin Scott,36,married,male,95,121,8,1327,other,no,yes,no,New York,37,none,310786,other
+c6a9eaad67a042aca752b3b2cae67e63,Kurt Schmidt,60,divorced,male,66,169,14,2169,vegetarian,yes,no,yes,Tokyo,29,sugar_intolerance,409600,other
+44d8a89823e5440fb066d40a677550cb,Cynthia Tyler,23,married,female,48,194,20,3861,carb_rich,yes,yes,no,New York,30,none,57104,other
+2a0e6927a12746308deb41bf06ffcecc,John Abbott,31,widowed,male,80,149,13,2804,protein_based,yes,no,no,Delhi,48,sugar_intolerance,189581,university
+3719359a74684c2a9707c898394590ac,Jacqueline Davidson,49,married, ,83,169,1,1106,other,yes,no,no,New York,11,sugar_intolerance,401958,university
+747602d366de4efb98cf4e381df10dec,William Gonzalez,49,widowed,male,114,211,23,3113,other,no,yes,yes,Tokyo,70,other,749429,high_school
+9ee6307098de46958b9856274f8d17f1,Brian Hernandez,55,single, ,119,205,9,3752,protein_based,no,yes,yes,Shanghai,12,diabetes,977335,high_school
+c4d60ccc28ec424a9de9d0a57c0621fa,Jodi Sims,21,divorced,female,119,133,8,2895,other,yes,no,no,Paris,79,other,337922,high_school
+912ec06740d24e82a94f57d8c4abe073,Jennifer Mejia,60,divorced, ,104,135,21,2702,carb_rich,no,yes,no,Delhi,19,diabetes,446772,university
+c924b9fb0376428ba5f1e7df5ff1e412,Jason Frye,33,divorced,male,63,159,6,846,protein_based,no,no,no,Paris,0,diabetes,169017,university
+ed705a6db5db4ae7ac9015295990f9f4,Christina Perry,43,single,female,83,141,5,3135,other,yes,no,no,New York,32,other,224619,university
+8e701324f984483ba668f2020c86c151,Matthew Mccoy,39,single,male,79,151,22,3518,protein_based,no,no,yes,Shanghai,8,other,520568,high_school
+401cda4874ae4904be63c56ab09565ee,Christopher Clark,34,widowed,male,114,198,22,1094,other,no,yes,no,Paris,28,heart_disease,233665,college
+9388ceb10a5b4dde931ba49744c69cee,Steven Dominguez,39,divorced,male,100,210,18,2674,other,yes,yes,yes,Tokyo,91,other,287655,university
+bd624fd76a4b4ac3859a8adb158d3033,Brian Williams,28,single,male,46,123,16,2304,vegetarian,no,yes,no,Dubai,99,none,712408,high_school
+21190b4d94634cd2842d0ea7eda3c5ef,Felicia Weber,51,divorced,female,77,151,5,1247,carb_rich,yes,no,no,Delhi,20,heart_disease,602218,other
+fa989e1f03c142bda1610db0925b9172,Patricia Jacobs,45,,female,81,215,11,1460,other,no,yes,yes,Paris,70,none,658960,university
+61a09eeac56d448796905e2e345dc9ca,Frances Richard,17,widowed,female,45,133,23,1720,other,no,yes,yes,London,70,heart_disease,108147,other
+1253d4477a964f469a6a0d3f567730dc,Tara Fletcher,26,divorced,female,69,201,3,3349,other,yes,no,yes,Delhi,43,none,745501,high_school
+293846ad700b4292ab6113f24e266592,Jennifer King,30,divorced,female,55,198,14,1307,carb_rich,no,no,no,Delhi,70,none,306326,college
+5ca1d1010c5842769dcf956dbda20943,Kimberly Stewart,20,single, ,119,143,20,1781,other,no,no,yes,London,99,heart_disease,918937,high_school
+757bc136dea14385a971a86f650b341b,David Butler,35,married,male,57,172,15,1038,protein_based,no,no,no,Shanghai,75,none,715479,high_school
+f6b55b931e23418e92a6b9d8714c17cb,Michael Lee,22,single,male,46,124,15,3117,vegetarian,yes,no,no,New York,55,diabetes,769223,high_school
+1137b809ae2c4674aa950e8711fe339d,Hannah Khan,43,married, ,112,188,22,173,other,no,no,yes,Delhi,22,none,932773,college
+a2b338970daf4121a81d0431de037689,Zachary Daniels,58,divorced,male,128,159,19,2192,carb_rich,no,no,no,Shanghai,97,heart_disease,326647,college
+8d6f258e3d5541689220208c40818058,Cynthia Wilson,20,divorced,female,85,220,5,1984,carb_rich,no,no,yes,Tokyo,62,heart_disease,514782,university
+eba13a8f56dc43de87ef00ba062f2905,Julie Salinas,35,single,female,103,211,8,132,protein_based,yes,no,no,London,25,other,392284,university
+c7a92b56bbe7415f8dc427b32113246a,Carl Torres,33,married,male,56,153,0,2469,other,no,yes,yes,Delhi,95,diabetes,139346,college
+41fb98e7993a4570b5e8e52684c033f4,Cynthia Mason MD,59,single,female,70,134,1,3474,protein_based,no,no,no,Shanghai,32,other,641378,high_school
+35ec191346ac4f789b8ee9a296420342,Brianna Valentine,35,widowed, ,69,134,21,3061,vegetarian,yes,yes,no,Shanghai,23,diabetes,127149,
+a9a9f089c2a046f3ab6e750d56e16271,Devon Stewart,59,married,male,75,220,15,718,carb_rich,no,no,no,Delhi,61,diabetes,90244,other
+af3daf4543cb4302bffed05041932ae0,Jeffrey Bauer,20,single,male,105,162,24,1976,other,yes,yes,no,London,9,heart_disease,812732,other
+7f61eef082234502b631c8d35e5cd202,Patricia Watkins,46,married,female,106,163,5,3265,other,yes,yes,no,Delhi,94,sugar_intolerance,38314,university
+86649339bb4943d1a4c2f202267fa30f,Brittany Livingston,23,married,female,126,176,5,652,protein_based,no,yes,no,London,45,none,182861,college
+8722d972e5164e73bd32be4a201aa99c,Andrew Moore,44,widowed,male,106,209,11,1381,carb_rich,yes,yes,yes,New York,40,sugar_intolerance,65549,high_school
+e3b130d359804fdc94b6ea97b10231c8,James Cohen,28,married, ,69,216,14,2124,vegetarian,no,no,yes,Dubai,81,heart_disease,340851,college
+ad1fc66d5926430282f271708a4ab7bc,Aaron Lee,49,single, ,102,138,14,402,protein_based,yes,no,yes,London,76,diabetes,177659,university
+6252c7b655834d67913fc3385614a449,Michael Roberts,21,married,male,56,200,1,1046,vegetarian,yes,yes,no,Tokyo,87,other,808124,other
+c51e53660dd948caa610d672d72cd575,Elizabeth Mcneil,46,widowed, ,114,121,17,417,carb_rich,yes,no,no,New York,53,heart_disease,294390,high_school
