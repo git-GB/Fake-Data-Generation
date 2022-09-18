@@ -4,7 +4,7 @@ When i was working on my guide, i felt like i need my own dataset so that i can 
 
 ## Content
 💬 Code for generating data -  "python_datagen.ipynb"\
-📊 Exported dataset - "fake_data_export.csv"\
+📊 Exported dataset - "fake_data_export.csv"
 
 ## Packages used
 🐼 Pandas - general data wrangling\
